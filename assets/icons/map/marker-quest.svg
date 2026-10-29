@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Quest">
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="#0B0E24"/>
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="none" stroke="#C9A55C" stroke-width="3" stroke-linejoin="miter"/>
+  <path d="M24 10v28" stroke="#F8F8FB" stroke-width="2.5"/><path d="M25 11h16l-4 6 4 6H25z" fill="#C9A55C"/>
+</svg>

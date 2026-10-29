@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Landmark">
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="#0B0E24"/>
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="none" stroke="#C9A55C" stroke-width="3" stroke-linejoin="miter"/>
+  <path d="M32 8v4" stroke="#C9A55C" stroke-width="1.5"/><path d="M32 12l3 6h-6z" fill="#D0AA60"/><path d="M28 18h8v20h-8z" fill="#D0AA60"/><path d="M20 28l3-4h5v14h-8zM44 28l-3-4h-5v14h8z" fill="#8D7850"/><circle cx="32" cy="24" r="2" fill="#10386B"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Rare gem">
+  <path d="M18 14h28l10 12-24 28L8 26z" fill="#662DC2"/>
+  <path d="M8 26h48L32 54z" fill="#201153"/>
+  <path d="M18 14l6 12h16l6-12z" fill="#9B6BFF"/>
+  <path d="M24 26h16L32 54z" fill="#9B6BFF"/>
+  <path d="M8 26h16l8 28z" fill="#201153"/>
+  <path d="M20 16h9l-4 8z" fill="#E8F6FC" opacity="0.9"/>
+  <path d="M18 14h28l10 12-24 28L8 26z" fill="none" stroke="#E8F6FC" stroke-width="1.5" stroke-linejoin="round" opacity="0.8"/>
+</svg>

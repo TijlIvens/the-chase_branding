@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Fog of war">
+  <defs><linearGradient id="fog-cloud" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient></defs>
+  <path d="M4 44V26h8v-6h6v24M18 44V14h8v30M26 44V10l3-4V2l3 4 3 4v34M38 44V20h8v24M46 44V28h6v-4h8v20z" fill="#395073"/>
+  <path d="M30 14h4M21 20h2M41 26h2" stroke="#4ADEF6" stroke-width="2" opacity="0.6"/>
+  <path d="M2 36l4-6h20l4 4h22l6 6v6H2z" fill="url(#fog-cloud)" opacity="0.92"/>
+  <path d="M8 48l4-5h22l3 3h21l4 5v5H8z" fill="url(#fog-cloud)"/>
+  <path d="M2 58h40M48 58h12" stroke="#8E97B3" stroke-width="3"/>
+  <path d="M6 33h18M12 46h20" stroke="#F8F8FB" stroke-width="1.5" opacity="0.8"/>
+</svg>

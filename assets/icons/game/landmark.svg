@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Landmark">
+  <defs><linearGradient id="landmark-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient></defs>
+  <path d="M32 2v6" stroke="#C9A55C" stroke-width="2"/>
+  <path d="M32 8l5 10H27z" fill="#D0AA60"/>
+  <path d="M26 18h12v40H26z" fill="#D0AA60"/>
+  <path d="M14 34l4-6h8v30H14zM50 34l-4-6h-8v30h12z" fill="#8D7850"/>
+  <path d="M6 58h52v4H6z" fill="#AF5930"/>
+  <circle cx="32" cy="27" r="3.5" fill="#10386B" stroke="#C9A55C" stroke-width="1.5"/>
+  <path d="M29 38h6v8h-6zM29 50h6v8h-6zM18 38h4v6h-4zM42 38h4v6h-4z" fill="#10386B"/>
+  <path d="M30 40h2M19 40h2M43 40h2" stroke="#4ADEF6" stroke-width="2"/>
+  <path d="M26 18h12v40H26z" fill="none" stroke="#8D7850" stroke-width="1.5"/>
+</svg>

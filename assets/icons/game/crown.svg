@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Crown">
+  <defs><linearGradient id="crown-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient></defs>
+  <path d="M4 18l14 14 14-26 14 26 14-14-6 36H10z" fill="url(#crown-gold)"/>
+  <path d="M10 50h44v8H10z" fill="#8D7850"/>
+  <path d="M32 32l5 7-5 7-5-7z" fill="#4ADEF6"/><path d="M32 32l5 7h-5z" fill="#E8F6FC"/>
+  <path d="M17 41l3 3-3 3-3-3zM47 41l3 3-3 3-3-3z" fill="#9B6BFF"/>
+  <path d="M4 18l14 14 14-26 14 26 14-14-6 36H10z" fill="none" stroke="#FFF6DD" stroke-width="1.5" stroke-linejoin="miter" opacity="0.8"/>
+</svg>

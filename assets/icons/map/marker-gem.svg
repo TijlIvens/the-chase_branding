@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Crystal nearby">
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="#0B0E24"/>
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="none" stroke="#79DCF4" stroke-width="3" stroke-linejoin="miter"/>
+  <path d="M24 14h16l6 8-14 16-14-16z" fill="#4FA8D9"/><path d="M24 14l4 8h8l4-8z" fill="#79DCF4"/><path d="M18 22h14v16z" fill="#2D74C2"/><path d="M26 16h5l-2 4z" fill="#E8F6FC"/>
+</svg>

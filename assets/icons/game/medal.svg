@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Medal">
+  <defs><linearGradient id="medal-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient><linearGradient id="medal-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient></defs>
+  <path d="M14 2h12l10 22h-12zM50 2H38L28 24h12z" fill="#1F62BC"/><path d="M14 2h12l10 22h-12z" fill="#2590D9"/>
+  <path d="M32 22l16 10v16L32 62 16 48V32z" fill="url(#medal-gold)"/>
+  <path d="M32 30l9 6v9l-9 8-9-8v-9z" fill="#8D7850"/>
+  <path d="M32 34l5 7-5 7-5-7z" fill="#4ADEF6"/><path d="M32 34l5 7h-5z" fill="#E8F6FC"/>
+  <path d="M32 22l16 10v16L32 62 16 48V32z" fill="none" stroke="#FFF6DD" stroke-width="1.5" stroke-linejoin="miter" opacity="0.8"/>
+</svg>

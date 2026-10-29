@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Level up">
+  <defs><linearGradient id="level-up-beam" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4ADEF6"/><stop offset="0.5" stop-color="#2590D9"/><stop offset="1" stop-color="#9B6BFF"/></linearGradient></defs>
+  <path d="M32 2l26 26H44v18H20V28H6z" fill="url(#level-up-beam)"/>
+  <path d="M32 2l26 26H44L32 14z" fill="#4ADEF6"/>
+  <path d="M32 2l26 26H44v18H20V28H6z" fill="none" stroke="#E8F6FC" stroke-width="2" stroke-linejoin="miter"/>
+  <path d="M20 52h24M24 60h16" stroke="#4ADEF6" stroke-width="4"/>
+</svg>

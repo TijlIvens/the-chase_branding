@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Gift">
+  <defs><linearGradient id="gift-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient></defs>
+  <path d="M8 26h48v32H8z" fill="#662DC2"/><path d="M4 18h56v10H4z" fill="#9B6BFF"/>
+  <path d="M28 18h8v40h-8z" fill="url(#gift-gold)"/>
+  <path d="M32 18 22 6h-6l-2 6 6 6M32 18 42 6h6l2 6-6 6" fill="none" stroke="url(#gift-gold)" stroke-width="3.5" stroke-linejoin="miter"/>
+  <path d="M4 18h56v10H4zM8 28h48v30H8z" fill="none" stroke="#201153" stroke-width="1.5"/>
+  <path d="M10 22h10" stroke="#E8F6FC" stroke-width="2" opacity="0.7"/>
+</svg>

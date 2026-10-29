@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Hourglass">
+  <defs><linearGradient id="hourglass-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient></defs>
+  <path d="M14 4h36M14 60h36" stroke="url(#hourglass-chrome)" stroke-width="5"/>
+  <path d="M18 6h28v8L36 32l10 18v8H18v-8l10-18-10-18z" fill="#10386B"/>
+  <path d="M22 14h20l-10 14z" fill="#4ADEF6"/><path d="M22 56l10-14 10 14z" fill="#79DCF4"/><path d="M32 30v12" stroke="#4ADEF6" stroke-width="1.5"/>
+  <path d="M18 6h28v8L36 32l10 18v8H18v-8l10-18-10-18z" fill="none" stroke="url(#hourglass-chrome)" stroke-width="2.5" stroke-linejoin="miter"/>
+</svg>

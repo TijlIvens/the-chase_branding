@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Event pass">
+  <defs><linearGradient id="event-pass-beam" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4ADEF6"/><stop offset="0.5" stop-color="#2590D9"/><stop offset="1" stop-color="#9B6BFF"/></linearGradient><linearGradient id="event-pass-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient></defs>
+  <path d="M4 14h56v12l-4 6 4 6v12H4V38l4-6-4-6z" fill="url(#event-pass-beam)"/>
+  <path d="M42 16v4M42 24v4M42 32v4M42 40v4M42 48v.5" stroke="#E8F6FC" stroke-width="2"/>
+  <path d="M22 20l3 7.5 8 .5-6 5 2 8-7-4.5-7 4.5 2-8-6-5 8-.5z" fill="url(#event-pass-gold)"/>
+  <path d="M4 14h56v12l-4 6 4 6v12H4V38l4-6-4-6z" fill="none" stroke="#E8F6FC" stroke-width="1.5" stroke-linejoin="miter"/>
+</svg>

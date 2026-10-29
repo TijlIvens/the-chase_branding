@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Hint">
+  <defs><radialGradient id="hint-glow"><stop offset="0" stop-color="#4ADEF6" stop-opacity="0.6"/><stop offset="1" stop-color="#4ADEF6" stop-opacity="0"/></radialGradient><linearGradient id="hint-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient></defs>
+  <circle cx="32" cy="26" r="24" fill="url(#hint-glow)"/>
+  <path d="M32 6l14 9v12l-7 9v6H25v-6l-7-9V15z" fill="#4ADEF6"/>
+  <path d="M32 6l14 9H32z" fill="#E8F6FC"/><path d="M18 15h14v27h-7v-6l-7-9z" fill="#2590D9"/>
+  <path d="M32 6l14 9v12l-7 9v6H25v-6l-7-9V15z" fill="none" stroke="#E8F6FC" stroke-width="1.5" stroke-linejoin="miter"/>
+  <path d="M24 46h16v5H24zM27 53h10v5H27z" fill="url(#hint-chrome)"/>
+</svg>

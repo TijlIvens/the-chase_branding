@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Locked area">
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="#0B0E24"/>
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="none" stroke="#8E97B3" stroke-width="3" stroke-linejoin="miter"/>
+  <path d="M26 22v-5l3-5h6l3 5v5" fill="none" stroke="#DCDFE9" stroke-width="3"/><path d="M21 22h22v16H21z" fill="#DCDFE9"/><path d="M32 26l3 4-3 4-3-4z" fill="#10386B"/>
+</svg>

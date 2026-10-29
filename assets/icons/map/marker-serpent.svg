@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Serpent sighted">
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="#0B0E24"/>
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="none" stroke="#F0506E" stroke-width="3" stroke-linejoin="miter"/>
+  <path d="M24 18c-4-3-5-7-3-10 1 4 4 6 7 7zM40 18c4-3 5-7 3-10-1 4-4 6-7 7z" fill="#C9A55C"/><path d="M20 22l12-7 12 7-2 8-6 6h-8l-6-6z" fill="#54838B"/><path d="M28 36l4 4 4-4z" fill="#E9CF8E"/><path d="M24 24l5 2-4 2zM40 24l-5 2 4 2z" fill="#9B6BFF"/>
+</svg>

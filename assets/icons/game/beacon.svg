@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Location beacon">
+  <defs><radialGradient id="beacon-glow"><stop offset="0" stop-color="#4ADEF6" stop-opacity="0.55"/><stop offset="1" stop-color="#4ADEF6" stop-opacity="0"/></radialGradient></defs>
+  <ellipse cx="32" cy="54" rx="22" ry="6" fill="url(#beacon-glow)"/>
+  <ellipse cx="32" cy="54" rx="16" ry="4" fill="none" stroke="#4ADEF6" stroke-width="2.5"/>
+  <g transform="translate(14 4) scale(0.56)"><path d="M18 14h28l10 12-24 28L8 26z" fill="#4FA8D9"/>
+  <path d="M8 26h48L32 54z" fill="#2D74C2"/>
+  <path d="M18 14l6 12h16l6-12z" fill="#79DCF4"/>
+  <path d="M8 26l10-12 6 12zM56 26 46 14l-6 12z" fill="#4FA8D9"/>
+  <path d="M24 26h16L32 54z" fill="#79DCF4"/>
+  <path d="M8 26h16l8 28z" fill="#3B8ACB"/>
+  <path d="M20 16h9l-4 8z" fill="#E8F6FC" opacity="0.9"/>
+  <path d="M18 14h28l10 12-24 28L8 26z" fill="none" stroke="#E8F6FC" stroke-width="1.5" stroke-linejoin="round" opacity="0.8"/></g>
+  <path d="M32 40v8" stroke="#4ADEF6" stroke-width="1.5" stroke-dasharray="2 2"/>
+</svg>

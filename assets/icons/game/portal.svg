@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Portal">
+  <defs><radialGradient id="portal-core"><stop offset="0" stop-color="#E8F6FC"/><stop offset="0.25" stop-color="#4ADEF6"/><stop offset="0.6" stop-color="#2590D9"/><stop offset="1" stop-color="#10386B"/></radialGradient></defs>
+  <circle cx="32" cy="32" r="28" fill="url(#portal-core)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M32 8a24 24 0 0 1 23 18" stroke="#E8F6FC" stroke-width="2.5"/>
+    <path d="M56 36A24 24 0 0 1 22 54" stroke="#9B6BFF" stroke-width="2.5"/>
+    <path d="M12 46A24 24 0 0 1 14 16" stroke="#4ADEF6" stroke-width="2.5"/>
+    <path d="M32 16a16 16 0 0 1 15 10" stroke="#E8F6FC" stroke-width="2"/>
+    <path d="M46 40a16 16 0 0 1-20 7" stroke="#E8F6FC" stroke-width="2"/>
+    <path d="M18 38a16 16 0 0 1 2-16" stroke="#E8F6FC" stroke-width="2"/>
+  </g>
+  <circle cx="32" cy="32" r="5" fill="#F8F8FB"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="District">
+  <defs><linearGradient id="district-sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#201153"/><stop offset="1" stop-color="#1F62BC"/></linearGradient></defs>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="url(#district-sky)"/>
+  <path d="M6 58V40h6v-4h6v22M18 58V30h8v28M26 58V22l4-4V6l4 12 4 4v36M38 58V34h8v24M46 58V42h6v-6h6v22z" fill="#0B0E24"/>
+  <path d="M32 6v12" stroke="#C9A55C" stroke-width="1.5"/>
+  <path d="M8 44h2M21 34h2M21 40h2M29 28h6M29 34h6M41 38h2M41 46h2M48 46h2" stroke="#4ADEF6" stroke-width="2"/>
+  <path d="M2 58h60" stroke="#4ADEF6" stroke-width="2"/>
+  <circle cx="50" cy="14" r="3" fill="#E8F6FC" opacity="0.8"/>
+</svg>

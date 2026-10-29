@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Serpent">
+  <defs><linearGradient id="serpent-head" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#54838B"/><stop offset="1" stop-color="#395073"/></linearGradient><linearGradient id="serpent-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient></defs>
+  <path d="M6 60c0-12 10-14 18-16s10-6 8-12" fill="none" stroke="#1F2534" stroke-width="15" stroke-linecap="round"/>
+  <path d="M6 60c0-12 10-14 18-16s10-6 8-12" fill="none" stroke="#395073" stroke-width="11" stroke-linecap="round"/>
+  <path d="M10 60c0-9 8-11 14-12.5" fill="none" stroke="#6E6A92" stroke-width="4" stroke-linecap="round"/>
+  <path d="M14 52c4-2 9-3 12-5M29 42l2-5" fill="none" stroke="#4ADEF6" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M30 16C24 8 17 5 10 8c6 1 11 5 13 13z" fill="url(#serpent-gold)"/>
+  <path d="M22 26l6-11 12-3 14 6 2 4-10 2 8 6-10 3-6 5H26l-5-6z" fill="url(#serpent-head)"/>
+  <path d="M42 22l16 1-14 4z" fill="url(#serpent-gold)"/>
+  <path d="M42 30l12 4-12 2z" fill="#C9A55C"/>
+  <path d="M43 27l11 4-11-1z" fill="#1F2534"/>
+  <path d="M33 19l5-2 2 3-5 2z" fill="#9B6BFF"/>
+  <path d="M36 19h1.5" stroke="#1F2534" stroke-width="1.5"/>
+  <path d="M24 32l5-4 4 6" fill="none" stroke="#4ADEF6" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M22 26l6-11 12-3 14 6 2 4-10 2 8 6-10 3-6 5H26l-5-6z" fill="none" stroke="#1F2534" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

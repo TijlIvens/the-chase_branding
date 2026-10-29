@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="XP star">
+  <defs><linearGradient id="xp-star-beam" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4ADEF6"/><stop offset="0.5" stop-color="#2590D9"/><stop offset="1" stop-color="#9B6BFF"/></linearGradient></defs>
+  <path d="M32 2l7 23 23 7-23 7-7 23-7-23-23-7 23-7z" fill="url(#xp-star-beam)"/>
+  <path d="M32 14l4 14 14 4-14 4-4 14-4-14-14-4 14-4z" fill="#F8F8FB"/>
+  <circle cx="52" cy="12" r="2.5" fill="#E8F6FC"/><circle cx="12" cy="52" r="2" fill="#9B6BFF"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="City key">
+  <defs><linearGradient id="key-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient></defs>
+  <path d="M28 30 52 54M42 44l6-6M48 50l5-5" fill="none" stroke="url(#key-chrome)" stroke-width="6" stroke-linecap="square"/>
+  <path d="M22 6l14 14-14 14L8 20z" fill="url(#key-chrome)"/>
+  <path d="M22 13l7 7-7 7-7-7z" fill="#10386B"/>
+  <path d="M22 15l5 5-5 5-5-5z" fill="#4ADEF6"/>
+  <path d="M22 15l5 5h-5z" fill="#E8F6FC"/>
+</svg>

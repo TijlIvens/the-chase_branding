@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Trophy">
+  <defs><linearGradient id="trophy-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient></defs>
+  <path d="M18 6h28v14l-14 16-14-16z" fill="url(#trophy-gold)"/>
+  <path d="M18 10H8v8l10 8M46 10h10v8l-10 8" fill="none" stroke="#C9A55C" stroke-width="3.5"/>
+  <path d="M28 36h8v10h-8z" fill="#8D7850"/>
+  <path d="M18 58h28l-3-12H21z" fill="url(#trophy-gold)"/>
+  <path d="M32 12l5 7-5 7-5-7z" fill="#4ADEF6"/><path d="M32 12l5 7h-5z" fill="#E8F6FC"/>
+  <path d="M22 9v8" stroke="#FFF6DD" stroke-width="2" stroke-linecap="round"/>
+</svg>

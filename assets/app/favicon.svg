@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="The Chase">
+<defs><linearGradient id="fv-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient>
+<linearGradient id="fv-beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4ADEF6"/><stop offset="1" stop-color="#9B6BFF"/></linearGradient></defs>
+<rect width="512" height="512" rx="96" fill="#0B0E24"/>
+<path d="M60 236 L256 470 L452 236" fill="none" stroke="url(#fv-beam)" stroke-width="40"/>
+<path fill="url(#fv-chrome)" d="M88 92 L210 112 L256 52 L302 112 L424 92 L354 186 L366 234 L320 250 L342 308 L282 286 L256 332 L230 286 L170 308 L192 250 L146 234 L158 186 Z"/>
+<path fill="#1F62BC" d="M142 114 L222 132 L256 88 L290 132 L370 114 L326 182 L334 216 L298 228 L310 274 L274 262 L256 296 L238 262 L202 274 L214 228 L178 216 L186 182 Z"/>
+<path fill="#F8F8FB" d="M256 100 L280 196 L256 260 L232 196 Z"/>
+</svg>

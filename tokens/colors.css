@@ -1,0 +1,57 @@
+/* The Chase — Unlock the City. Generated from tokens/colors.json; keep both in sync. */
+:root {
+  /* core */
+  --chase-void: #05040B;
+  --chase-midnight: #0B0E24;
+  --chase-night-navy: #0F1033;
+  --chase-deep-indigo: #201153;
+  --chase-shield-blue: #10386B;
+  --chase-electric-blue: #1F62BC;
+  --chase-signal-blue: #2590D9;
+  --chase-cyan: #4ADEF6;
+  --chase-ultraviolet: #662DC2;
+  --chase-violet-glow: #9B6BFF;
+  --chase-chrome: #F8F8FB;
+  --chase-silver: #DCDFE9;
+  --chase-steel: #8E97B3;
+
+  /* crystal */
+  --chase-ice: #E8F6FC;
+  --chase-crystal: #79DCF4;
+  --chase-gem-blue: #4FA8D9;
+  --chase-gem-shade: #3B8ACB;
+  --chase-gem-deep: #2D74C2;
+
+  /* characters */
+  --chase-serpent-scale: #395073;
+  --chase-serpent-belly: #6E6A92;
+  --chase-serpent-head: #54838B;
+  --chase-serpent-shade: #1F2534;
+  --chase-horn-gold: #C9A55C;
+  --chase-gold-light: #E9CF8E;
+  --chase-gold-shine: #FFF6DD;
+  --chase-horn-shadow: #8D7850;
+  --chase-agent-coat: #1E1C22;
+  --chase-agent-leather: #905635;
+  --chase-agent-shirt: #ACBDC9;
+  --chase-armor-glow: #3FA9F5;
+
+  /* city */
+  --chase-day-sky: #71A7EA;
+  --chase-terracotta: #AF5930;
+  --chase-sandstone: #D0AA60;
+  --chase-street-rose: #C43C57;
+
+  /* semantic */
+  --chase-success: #3DDC97;
+  --chase-warning: #F5B841;
+  --chase-danger: #F0506E;
+  --chase-info: #2590D9;
+
+  /* gradients */
+  --chase-gradient-emblem-glow: linear-gradient(90deg, #2590D9 0%, #4ADEF6 45%, #9B6BFF 75%, #662DC2 100%);
+  --chase-gradient-night-sky: radial-gradient(circle at 50% 40%, #201153 0%, #0B0E24 55%, #05040B 100%);
+  --chase-gradient-chrome: linear-gradient(180deg, #F8F8FB 0%, #DCDFE9 55%, #8E97B3 100%);
+  --chase-gradient-crystal: linear-gradient(160deg, #E8F6FC 0%, #79DCF4 35%, #4FA8D9 65%, #2D74C2 100%);
+  --chase-gradient-portal: radial-gradient(circle, #E8F6FC 0%, #4ADEF6 25%, #2590D9 55%, #10386B 100%);
+}

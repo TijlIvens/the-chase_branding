@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Icon name">
+  <!-- Rename every "name-" id prefix to this file's name. Colours only from tokens/colors.json. -->
+  <defs>
+    <linearGradient id="name-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient>
+    <linearGradient id="name-crystal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E8F6FC"/><stop offset="0.35" stop-color="#79DCF4"/><stop offset="0.65" stop-color="#4FA8D9"/><stop offset="1" stop-color="#2D74C2"/></linearGradient>
+    <linearGradient id="name-beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4ADEF6"/><stop offset="0.5" stop-color="#2590D9"/><stop offset="1" stop-color="#9B6BFF"/></linearGradient>
+    <linearGradient id="name-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient>
+  </defs>
+  <!-- Body: fills 52-60 px, light from top-left. -->
+  <path d="M32 6l22 26-22 26-22-26z" fill="url(#name-crystal)"/>
+  <!-- Highlight facet -->
+  <path d="M32 6 18 22h14z" fill="#E8F6FC" opacity="0.8"/>
+  <!-- Separating outline -->
+  <path d="M32 6l22 26-22 26-22-26z" fill="none" stroke="#E8F6FC" stroke-width="1.5" stroke-linejoin="miter"/>
+</svg>

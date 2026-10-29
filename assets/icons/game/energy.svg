@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Energy">
+  <defs><linearGradient id="energy-beam" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4ADEF6"/><stop offset="0.5" stop-color="#2590D9"/><stop offset="1" stop-color="#9B6BFF"/></linearGradient></defs>
+  <path d="M36 4 12 36h16l-4 24 26-34H34z" fill="url(#energy-beam)"/>
+  <path d="M36 4 12 36h16l-4 24 26-34H34z" fill="none" stroke="#E8F6FC" stroke-width="2" stroke-linejoin="miter"/>
+  <path d="M33 10 19 31" stroke="#F8F8FB" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+</svg>

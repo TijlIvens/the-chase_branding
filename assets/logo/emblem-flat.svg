@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="The Chase emblem">
+<defs>
+  <linearGradient id="ef-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient>
+  <linearGradient id="ef-beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2590D9"/><stop offset="0.45" stop-color="#4ADEF6"/><stop offset="0.75" stop-color="#9B6BFF"/><stop offset="1" stop-color="#662DC2"/></linearGradient>
+  <linearGradient id="ef-city" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1F62BC"/><stop offset="1" stop-color="#4ADEF6"/></linearGradient>
+  <clipPath id="ef-v"><path d="M72 240 L256 448 L440 240 Z"/></clipPath>
+</defs>
+<g clip-path="url(#ef-v)"><path fill="url(#ef-city)" d="M176 460V372h10v-12h10v-14h8v14h8v-30h12v30h6v-46l6-12 6 12v46h8v-26h12v26h6v-18h10v18h8v-36h12v36h10v22h12v-10h10v100z"/></g>
+<path d="M60 236 L256 460 L452 236" fill="none" stroke="url(#ef-beam)" stroke-width="12"/>
+<path fill="url(#ef-chrome)" d="M88 92 L210 112 L256 52 L302 112 L424 92 L354 186 L366 234 L320 250 L342 308 L282 286 L256 332 L230 286 L170 308 L192 250 L146 234 L158 186 Z"/>
+<path fill="#10386B" d="M142 114 L222 132 L256 88 L290 132 L370 114 L326 182 L334 216 L298 228 L310 274 L274 262 L256 296 L238 262 L202 274 L214 228 L178 216 L186 182 Z"/>
+<path fill="none" stroke="url(#ef-chrome)" stroke-width="14" d="M190 152 L234 160 L256 132 L278 160 L322 152 L298 196 L304 220 L256 236 L208 220 L214 196 Z"/>
+<path fill="#F8F8FB" d="M256 118 L270 196 L256 244 L242 196 Z"/>
+<path fill="url(#ef-chrome)" d="M236 248 h10 v34 l-10 -6 z M266 248 h10 v28 l-10 6 z M120 222 L146 204 L146 236 Z M392 222 L366 204 L366 236 Z"/>
+</svg>

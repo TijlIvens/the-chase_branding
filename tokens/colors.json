@@ -1,0 +1,59 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "$description": "The Chase — Unlock the City. Brand colour tokens sampled from base-images/. Single source of truth for BRAND_BOOK.md, assets/ and the chase-brand-assets skill.",
+  "core": {
+    "void":          { "$value": "#05040B", "$type": "color", "$description": "Deepest background. Logo backdrop, app splash." },
+    "midnight":      { "$value": "#0B0E24", "$type": "color", "$description": "Default dark surface / app background." },
+    "night-navy":    { "$value": "#0F1033", "$type": "color", "$description": "Raised surface, cards on midnight." },
+    "deep-indigo":   { "$value": "#201153", "$type": "color", "$description": "Violet-tinted surface, gradient start towards ultraviolet." },
+    "shield-blue":   { "$value": "#10386B", "$type": "color", "$description": "Inner fill of the emblem. Badges, filled icon bodies." },
+    "electric-blue": { "$value": "#1F62BC", "$type": "color", "$description": "Primary brand blue. Buttons, active states." },
+    "signal-blue":   { "$value": "#2590D9", "$type": "color", "$description": "Bright brand blue. Links, focus, energy lines." },
+    "chase-cyan":    { "$value": "#4ADEF6", "$type": "color", "$description": "Hottest glow. Player position, highlights, light cores." },
+    "ultraviolet":   { "$value": "#662DC2", "$type": "color", "$description": "Secondary brand colour. Right-hand logo glow, rare/epic items." },
+    "violet-glow":   { "$value": "#9B6BFF", "$type": "color", "$description": "Light violet for glows and gradient ends on dark." },
+    "chrome":        { "$value": "#F8F8FB", "$type": "color", "$description": "Brightest silver of the emblem. Primary text on dark." },
+    "silver":        { "$value": "#DCDFE9", "$type": "color", "$description": "Emblem body silver. Strokes, secondary text." },
+    "steel":         { "$value": "#8E97B3", "$type": "color", "$description": "Emblem bevel shadow. Muted text, disabled." }
+  },
+  "crystal": {
+    "ice":           { "$value": "#E8F6FC", "$type": "color", "$description": "Gem specular highlight." },
+    "crystal":       { "$value": "#79DCF4", "$type": "color", "$description": "Gem light facet." },
+    "gem-blue":      { "$value": "#4FA8D9", "$type": "color", "$description": "Gem mid facet." },
+    "gem-shade":     { "$value": "#3B8ACB", "$type": "color", "$description": "Gem side facet between gem-blue and gem-deep." },
+    "gem-deep":      { "$value": "#2D74C2", "$type": "color", "$description": "Gem shadow facet." }
+  },
+  "characters": {
+    "serpent-scale": { "$value": "#395073", "$type": "color", "$description": "Serpent body scales (slate blue)." },
+    "serpent-belly": { "$value": "#6E6A92", "$type": "color", "$description": "Serpent belly plates (dusty lavender)." },
+    "serpent-head":  { "$value": "#54838B", "$type": "color", "$description": "Serpent head / snout (teal)." },
+    "serpent-shade": { "$value": "#1F2534", "$type": "color", "$description": "Serpent deep shadow / outline." },
+    "horn-gold":     { "$value": "#C9A55C", "$type": "color", "$description": "Serpent horns, agent brass buttons, gold coins." },
+    "gold-light":    { "$value": "#E9CF8E", "$type": "color", "$description": "Lit side of gold (coins, trophy, serpent fangs)." },
+    "gold-shine":    { "$value": "#FFF6DD", "$type": "color", "$description": "Specular glint on gold. Small strokes only." },
+    "horn-shadow":   { "$value": "#8D7850", "$type": "color", "$description": "Shadow side of horns and brass." },
+    "agent-coat":    { "$value": "#1E1C22", "$type": "color", "$description": "Agent uniform (near-black)." },
+    "agent-leather": { "$value": "#905635", "$type": "color", "$description": "Agent belt and holster." },
+    "agent-shirt":   { "$value": "#ACBDC9", "$type": "color", "$description": "Agent shirt (pale steel blue)." },
+    "armor-glow":    { "$value": "#3FA9F5", "$type": "color", "$description": "Light strips on agent armour." }
+  },
+  "city": {
+    "day-sky":       { "$value": "#71A7EA", "$type": "color", "$description": "Daylight sky in city scenes." },
+    "terracotta":    { "$value": "#AF5930", "$type": "color", "$description": "Rooftops of the old town." },
+    "sandstone":     { "$value": "#D0AA60", "$type": "color", "$description": "Cathedral / station stone." },
+    "street-rose":   { "$value": "#C43C57", "$type": "color", "$description": "Warm accent from street scenes (player outfits)." }
+  },
+  "semantic": {
+    "success":       { "$value": "#3DDC97", "$type": "color", "$description": "Unlocked, completed, online." },
+    "warning":       { "$value": "#F5B841", "$type": "color", "$description": "Timer running out, low battery." },
+    "danger":        { "$value": "#F0506E", "$type": "color", "$description": "Serpent nearby, errors, destructive." },
+    "info":          { "$value": "#2590D9", "$type": "color", "$description": "Alias of signal-blue." }
+  },
+  "gradients": {
+    "emblem-glow":   { "$value": "linear-gradient(90deg, #2590D9 0%, #4ADEF6 45%, #9B6BFF 75%, #662DC2 100%)", "$description": "The V-beam under the emblem: cyan left, violet right." },
+    "night-sky":     { "$value": "radial-gradient(circle at 50% 40%, #201153 0%, #0B0E24 55%, #05040B 100%)", "$description": "Splash / hero backdrop." },
+    "chrome":        { "$value": "linear-gradient(180deg, #F8F8FB 0%, #DCDFE9 55%, #8E97B3 100%)", "$description": "Metallic silver fill for the emblem and display type." },
+    "crystal":       { "$value": "linear-gradient(160deg, #E8F6FC 0%, #79DCF4 35%, #4FA8D9 65%, #2D74C2 100%)", "$description": "Gem / collectible fill." },
+    "portal":        { "$value": "radial-gradient(circle, #E8F6FC 0%, #4ADEF6 25%, #2590D9 55%, #10386B 100%)", "$description": "Vortex / portal core." }
+  }
+}

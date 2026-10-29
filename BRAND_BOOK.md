@@ -1,7 +1,9 @@
 # The Chase — Unlock the City · Brand Book
 
-> A location-based game where players run through their real city, chase down
-> crystals, open portals and outwit the horned Serpent and the Agent.
+> A mobile game that blends storytelling, trivia and city exploration. Players
+> walk their own city, answer location-activated questions and collect Diamond
+> Beacons to help the inventor **Mr. Arthur Chase** and his serpent companion **Aero**
+> repair time, because knowledge lost makes the future worse.
 > The brand is **night-city electric**: chrome and deep navy, lit by a cyan
 > beam on one side and an ultraviolet beam on the other.
 
@@ -19,18 +21,45 @@ disagree, **the tokens win**.
 | **Name** | The Chase |
 | **Tagline** | Unlock the City |
 | **Lockup text** | `THE CHASE: UNLOCK THE CITY` (all caps) |
-| **Personality** | Fast, mischievous, heroic, a little sci-fi, rooted in real streets |
-| **Visual metaphor** | A chrome shield over a glowing city, split by two beams of light: cyan (the player, discovery) and violet (the portal, the unknown) |
-| **World** | Real European old towns (the art is set in Antwerp: cathedral spire, Centraal station, red-roof Grote Markt) overlaid with portals, crystals and lightning |
+| **Personality** | Curious, warm, heroic, a little sci-fi, rooted in real streets. Smart, never smug |
+| **Visual metaphor** | A chrome shield over a glowing city, split by two beams of light: cyan (the player, discovery, the present) and violet (time, the Cerebrium's timelines, Aero's telepathy) |
+| **World** | Whatever city the player is in. Aero appears in the heart of each player's own city. The key art is set in Antwerp (cathedral spire, Centraal station, red-roof Grote Markt), overlaid with time rifts, beacons and lightning |
+| **Purpose** | Entertainment with a point: locals and tourists learn about their city, and every correct answer helps the shared, global mission to change the future |
+
+### The story
+
+Mr. Arthur Chase is a brilliant inventor. With his mystical serpent companion Aero he sets out
+to change the course of history and save a world on the brink. Their invention, the
+**Cerebrium Project** time machine, misfires: it flings Aero and thousands of **Diamond
+Beacons** into different timelines. Aero lands in the heart of every player's city and talks
+telepathically to Mr. Chase, who is stuck in the future, desperately repairing the machine.
+Players hold the key: by touring their city and answering questions they recover the
+beacons, uncover the truth and save their future.
 
 ### Cast
 
-| Character | Role | Signature colours |
+| Character | Role | Look | Signature colours |
+|---|---|---|---|
+| **Mr. Arthur Chase** | Brilliant inventor of the Cerebrium Project, working in the future to fix the time machine. Speaks to the player through Aero | Slicked dark hair, scar over the right brow, black double-breasted coat with brass buttons, chrome pauldrons and blue light strips, triangle insignia on the chest | `inventor-*`, `armor-glow`, `horn-gold`, `chrome` |
+| **Aero** | Mr. Chase's mystical serpent companion and **the player's guide**. Lives in the player's city, gives clues through the telepathic bond, cheers them on. An ally, never a villain | Two golden horns swept back, beaked snout, purple eyes, teal head, slate scales, lavender belly, glowing cyan rune lines | `aero-*`, `horn-gold`, `chase-cyan`, `violet-glow` |
+| **The Player** | Local or tourist exploring their city with a phone and a backpack | Everyday clothes, day-sky light | `day-sky`, `street-rose`, `diamond` family |
+| **Diamond Beacons** | The collectible. Purely in-game: one sits at every question location and is collected when the player answers correctly | Faceted blue diamond floating above a glowing ring | `diamond` family, `chase-cyan` |
+
+### How the game works
+
+| Mechanic | Rule | Brand assets |
 |---|---|---|
-| **The Player** | Everyday runner with a phone and a backpack | Day-sky blue, street rose, crystal |
-| **The Serpent** | Horned, beaked trickster villain; teal head, slate scales, lavender belly, glowing cyan runes | `serpent-*`, `horn-gold`, `chase-cyan` |
-| **The Agent** | Uniformed antagonist/rival in black double-breasted coat, chrome pauldrons, blue armour light strips, brass buttons | `agent-*`, `armor-glow`, `horn-gold` |
-| **The Crystal** | The collectible: a faceted blue diamond hovering above a glowing ring | `crystal` family |
+| **Urban exploration** | The player walks to real locations in their city | `map`, `route`, `landmark`, `marker-beacon` |
+| **Location-activated questions** | Arriving at a location unlocks a multiple-choice question about the city, general knowledge or pop culture | `question`, `question-card`, `landmark`, `knowledge`, `pop-culture` |
+| **Points** | Every correct answer earns points and collects that location's Diamond Beacon | `beacon`, `marker-collected`, `success` colour |
+| **Time penalty** | A wrong answer costs **5 seconds** | `time-penalty` (UI and game), `warning` colour |
+| **Telepathic bond** | Aero sends clues and guidance | `telepathy`, `telepathic-link`, `marker-aero`, `violet-glow` |
+| **The mission** | Beacons recovered by all players repair the Cerebrium and change the future | `cerebrium`, `time-machine`, `timeline`, `portal` |
+| **Prizes** | **Every** participant, win or lose, gets coupons or discounts at local shops, bars, restaurants and businesses | `coupon` (UI and game), `marker-partner`, `gold` family |
+
+Naming in copy: always **Mr. Chase** or **Mr. Arthur Chase** (not "the Agent"), **Aero**
+(not "the Serpent"), **Diamond Beacons** or **beacons** (not crystals or gems), and the
+**Cerebrium Project** or **the Cerebrium**.
 
 ---
 
@@ -56,7 +85,7 @@ These come straight from the logo. They carry the brand.
 | ![](https://placehold.co/24x24/DCDFE9/DCDFE9.png) | `silver` | `#DCDFE9` | 220, 223, 233 | Emblem body; secondary text, strokes |
 | ![](https://placehold.co/24x24/8E97B3/8E97B3.png) | `steel` | `#8E97B3` | 142, 151, 179 | Emblem bevel shadow; muted text, disabled |
 
-### 2.2 Crystal — the collectible
+### 2.2 Diamond — the Diamond Beacons
 
 | Swatch | Token | Hex | Use |
 |---|---|---|---|
@@ -70,18 +99,18 @@ These come straight from the logo. They carry the brand.
 
 | Swatch | Token | Hex | Use |
 |---|---|---|---|
-| ![](https://placehold.co/24x24/395073/395073.png) | `serpent-scale` | `#395073` | Serpent body scales |
-| ![](https://placehold.co/24x24/6E6A92/6E6A92.png) | `serpent-belly` | `#6E6A92` | Belly plates |
-| ![](https://placehold.co/24x24/54838B/54838B.png) | `serpent-head` | `#54838B` | Teal head and snout |
-| ![](https://placehold.co/24x24/1F2534/1F2534.png) | `serpent-shade` | `#1F2534` | Deep shadow, outlines for character art |
-| ![](https://placehold.co/24x24/E9CF8E/E9CF8E.png) | `gold-light` | `#E9CF8E` | Lit side of gold, beak |
-| ![](https://placehold.co/24x24/C9A55C/C9A55C.png) | `horn-gold` | `#C9A55C` | Horns, brass buttons, coins — the only warm metal |
+| ![](https://placehold.co/24x24/395073/395073.png) | `aero-scale` | `#395073` | Aero's body scales |
+| ![](https://placehold.co/24x24/6E6A92/6E6A92.png) | `aero-belly` | `#6E6A92` | Aero's belly plates |
+| ![](https://placehold.co/24x24/54838B/54838B.png) | `aero-head` | `#54838B` | Aero's teal head and snout |
+| ![](https://placehold.co/24x24/1F2534/1F2534.png) | `aero-shade` | `#1F2534` | Deep shadow, outlines for character art and icons |
+| ![](https://placehold.co/24x24/E9CF8E/E9CF8E.png) | `gold-light` | `#E9CF8E` | Lit side of gold, Aero's beak |
+| ![](https://placehold.co/24x24/C9A55C/C9A55C.png) | `horn-gold` | `#C9A55C` | Aero's horns, Mr. Chase's brass buttons, coins, coupons — the only warm metal |
 | ![](https://placehold.co/24x24/8D7850/8D7850.png) | `horn-shadow` | `#8D7850` | Shadow side of gold |
 | ![](https://placehold.co/24x24/FFF6DD/FFF6DD.png) | `gold-shine` | `#FFF6DD` | Tiny specular glints on gold only |
-| ![](https://placehold.co/24x24/1E1C22/1E1C22.png) | `agent-coat` | `#1E1C22` | Agent uniform |
-| ![](https://placehold.co/24x24/905635/905635.png) | `agent-leather` | `#905635` | Belt, holster |
-| ![](https://placehold.co/24x24/ACBDC9/ACBDC9.png) | `agent-shirt` | `#ACBDC9` | Shirt |
-| ![](https://placehold.co/24x24/3FA9F5/3FA9F5.png) | `armor-glow` | `#3FA9F5` | Armour light strips, agent insignia |
+| ![](https://placehold.co/24x24/1E1C22/1E1C22.png) | `inventor-coat` | `#1E1C22` | Mr. Chase's coat |
+| ![](https://placehold.co/24x24/905635/905635.png) | `inventor-leather` | `#905635` | Belt, tool pouch |
+| ![](https://placehold.co/24x24/ACBDC9/ACBDC9.png) | `inventor-shirt` | `#ACBDC9` | Mr. Chase's shirt |
+| ![](https://placehold.co/24x24/3FA9F5/3FA9F5.png) | `armor-glow` | `#3FA9F5` | Armour light strips, Mr. Chase's triangle insignia |
 
 ### 2.4 City (daylight scenes)
 
@@ -98,9 +127,9 @@ City colours are for **illustration only**, never for UI chrome.
 
 | Swatch | Token | Hex | Meaning |
 |---|---|---|---|
-| ![](https://placehold.co/24x24/3DDC97/3DDC97.png) | `success` | `#3DDC97` | Unlocked, completed, online |
-| ![](https://placehold.co/24x24/F5B841/F5B841.png) | `warning` | `#F5B841` | Timer running out, low battery |
-| ![](https://placehold.co/24x24/F0506E/F0506E.png) | `danger` | `#F0506E` | Serpent nearby, errors, destructive actions |
+| ![](https://placehold.co/24x24/3DDC97/3DDC97.png) | `success` | `#3DDC97` | Correct answer, beacon collected, completed |
+| ![](https://placehold.co/24x24/F5B841/F5B841.png) | `warning` | `#F5B841` | **Time penalty (−5 s)**, timer running low, low battery |
+| ![](https://placehold.co/24x24/F0506E/F0506E.png) | `danger` | `#F0506E` | Wrong answer, errors, destructive actions. Never for Aero |
 | ![](https://placehold.co/24x24/2590D9/2590D9.png) | `info` | `#2590D9` | Alias of `signal-blue` |
 
 These three (success, warning, danger) were added for UI and are not in the key art;
@@ -113,8 +142,8 @@ keep them out of illustrations.
 | `emblem-glow` | `90deg: #2590D9 → #4ADEF6 45% → #9B6BFF 75% → #662DC2` | The V-beam. **Cyan always on the left, violet on the right.** Progress bars, hero rules |
 | `night-sky` | `radial at 50% 40%: #201153 → #0B0E24 55% → #05040B` | Splash, app icon, hero backdrop |
 | `chrome` | `180deg: #F8F8FB → #DCDFE9 55% → #8E97B3` | Metallic fills: emblem, display type |
-| `crystal` | `160deg: #E8F6FC → #79DCF4 35% → #4FA8D9 65% → #2D74C2` | Gems, collectibles |
-| `portal` | `radial: #E8F6FC → #4ADEF6 25% → #2590D9 55% → #10386B` | Vortex / portal core |
+| `diamond` | `160deg: #E8F6FC → #79DCF4 35% → #4FA8D9 65% → #2D74C2` | Diamond Beacons |
+| `portal` | `radial: #E8F6FC → #4ADEF6 25% → #2590D9 55% → #10386B` | Time rift / portal / Cerebrium core |
 
 ### 2.7 Proportion
 
@@ -212,17 +241,17 @@ Display lettering is always uppercase. Headings in sentence case; never all-caps
 - Angular, faceted shapes (diamonds, hexagons, chamfers) instead of circles where it reads.
   The diamond is the recurring motif (pin, scan, coin, search).
 
-Set (111): `agent alert back badge battery bookmark calendar camera chat check chevron-down chevron-up close coin compass copy crown delete district download duel edit energy external-link eye eye-off filter finish fog footsteps forward fullscreen gem gift globe grid heart help hint history home image info inventory key landmark layers leaderboard level-up link list location-off location-pin lock login logout mail map medal menu mic minus moon more navigation notification offline pause play player-position plus portal profile qr-code quest radar rank recenter refresh route scan search send serpent settings share shield shield-check shop smartphone sort sparkle star stop streak sun target team ticket timer trophy unlock upload user-add volume volume-off wallet warning wifi zoom-in zoom-out`
+Set (119): `aero alert back badge battery beacon bookmark calendar camera chat check chevron-down chevron-up close coin compass copy coupon crown delete district download edit energy external-link eye eye-off filter finish fog footsteps forward fullscreen gem gift globe grid heart help hint history home image info inventory key knowledge landmark layers leaderboard level-up link list location-off location-pin lock login logout mail map medal menu mic minus moon more mr-chase navigation notification offline pause play player-position plus pop-culture portal profile qr-code quest question radar rank recenter refresh route scan search send settings share shield shield-check shop smartphone sort sparkle star stop streak sun target team telepathy ticket time-machine time-penalty timeline timer trophy unlock upload user-add volume volume-off wallet warning wifi zoom-in zoom-out`
 
 ### Game icons — [`assets/icons/game/`](assets/icons/game/)
 
 - 64 × 64, full colour, palette tokens only, gradients allowed.
 - Every gradient/clip `id` is prefixed with the file name (`gem-…`) so icons can be
   inlined together on one page.
-- Top-left light source; a thin `ice` or `serpent-shade` outline separates the
+- Top-left light source; a thin `ice` or `aero-shade` outline separates the
   object from any background.
 
-Set (34): `agent-badge beacon chest coin coin-stack compass crown crystal-shard district energy event-pass fog gem gem-legendary gem-rare gift hint hourglass key landmark level-up lock-district medal portal quest-marker radar rune-stone serpent shield-boost speed-boost streak treasure-map trophy xp-star`
+Set (40): `aero beacon beacon-shard cerebrium chase-insignia chest coin coin-stack compass coupon crown district energy event-pass fog gem gem-legendary gem-rare gift hint hourglass key landmark level-up lock-district medal portal quest-marker question-card radar rune-stone shield-boost speed-boost streak telepathic-link time-penalty timeline treasure-map trophy xp-star`
 
 ### Map markers: [`assets/icons/map/`](assets/icons/map/)
 
@@ -232,24 +261,22 @@ Set (34): `agent-badge beacon chest coin coin-stack compass crown crystal-shard 
 
 | Rim | Meaning | Markers |
 |---|---|---|
-| `chase-cyan` / `crystal` | you, collectibles | `marker-player`, `marker-gem` |
-| `violet-glow` | portals, magic | `marker-portal` |
-| `danger` | threat | `marker-serpent` |
-| `armor-glow` | rival | `marker-agent` |
-| `horn-gold` | places, quests, shop | `marker-landmark`, `marker-quest`, `marker-shop` |
-| `success` | friends | `marker-friend` |
+| `chase-cyan` / `crystal` | you, Diamond Beacon (question here) | `marker-player`, `marker-beacon` |
+| `violet-glow` | time and telepathy: portals, Aero's clues | `marker-portal`, `marker-aero` |
+| `success` | done: beacon collected; friends | `marker-collected`, `marker-friend` |
+| `horn-gold` | places, quests, partner businesses with coupons | `marker-landmark`, `marker-quest`, `marker-partner` |
 | `steel` | locked / unavailable | `marker-locked` |
 | `signal-blue` | grouped markers | `marker-cluster` |
 
-Set (11): `marker-agent marker-cluster marker-friend marker-gem marker-landmark marker-locked marker-player marker-portal marker-quest marker-serpent marker-shop`
+Set (11): `marker-aero marker-beacon marker-cluster marker-collected marker-friend marker-landmark marker-locked marker-partner marker-player marker-portal marker-quest`
 
 ### Rarity
 
-Gems come in three tiers. Use the same colours for rarity frames and labels.
+Diamond Beacons can come in three tiers (e.g. harder questions give rarer beacons). Use the same colours for rarity frames and labels.
 
 | Tier | Icon | Colours |
 |---|---|---|
-| Common | `gem` | `crystal` family |
+| Common | `gem` | `diamond` family |
 | Rare | `gem-rare` | `violet-glow`, `ultraviolet`, `deep-indigo` |
 | Legendary | `gem-legendary` | `gold-light`, `horn-gold`, `horn-shadow` |
 
@@ -261,21 +288,31 @@ Gems come in three tiers. Use the same colours for rarity frames and labels.
   on white for sprites, full scenes with deep perspective for key art.
 - **Light**: magic is always cool (cyan → violet). Warm light only comes from the real city
   (sunlight, sandstone, terracotta) and from gold.
-- **Motifs**: floating crystals over a glowing ring, swirling portals in the sky,
+- **Motifs**: Diamond Beacons floating over a glowing ring, swirling time rifts in the sky,
   lightning arcs, four-point sparkles, real landmarks seen from above.
 - **Characters**: keep proportions and colours consistent with the sheets in
-  `base-images/` (Serpent: 2 golden horns swept back, beaked snout, purple eyes, cyan rune lines;
-  Agent: slicked dark hair, scar over the right brow, chrome pauldrons with blue light strips).
+  `base-images/` (Aero: 2 golden horns swept back, beaked snout, purple eyes, cyan rune lines;
+  Mr. Chase: slicked dark hair, scar over the right brow, chrome pauldrons with blue light strips).
+- **Aero is friendly**: expressive, helpful, a bit theatrical. Show Aero guiding, pointing,
+  cheering or holding a beacon, never attacking the player. Mr. Chase is shown in his future
+  workshop or via telepathic link, not walking the player's streets.
 
 ---
 
 ## 7. Voice
 
-Short, energetic, second person. Verbs first. Playful about the villains, never mean to the player.
+Short, energetic, second person. Verbs first. Curious and encouraging: the player is the hero,
+Aero is their excited guide, Mr. Chase is the brilliant (slightly frantic) inventor.
+A wrong answer is a setback, not a failure. Everyone wins something.
 
-- ✅ "Grab the crystal before the Serpent does."
-- ✅ "District unlocked. The cathedral is yours."
+- ✅ "Aero senses a Diamond Beacon near the cathedral. Head there!"
+- ✅ "Correct! Beacon recovered. The future just got a little brighter."
+- ✅ "Not quite. −5 seconds. Aero believes in you, try the next one."
+- ✅ "Mission complete. Here's 10% off at a café around the corner."
+- ✅ "Mr. Chase: 'The Cerebrium is stabilising. Keep going!'"
 - ❌ "Users can collect items by navigating to locations."
+- ❌ "Wrong! You lose." (never shame the player; never imply that losing means no prize)
+- ❌ "Outrun the Serpent." (Aero is an ally)
 
 ---
 

@@ -10,7 +10,11 @@ Paths below are relative to it. Scripts need only `python3` (3.9+, standard libr
 
 ## Before you draw
 
-1. Read `BRAND_BOOK.md` sections 2 (colour), 5 (iconography) and, for logos, 3.
+1. Read `BRAND_BOOK.md` §1 (story, cast, game mechanics), then sections 2 (colour),
+   5 (iconography) and, for logos, 3. Get the story right: Aero is the player's friendly
+   guide (never shown as a threat or in `danger` red), Mr. Chase is the inventor, the
+   collectibles are **Diamond Beacons**, a wrong answer costs 5 seconds, and every player
+   gets a coupon.
 2. Use colours **only** from `tokens/colors.json`. Need a new one? Add it to
    `tokens/colors.json` and `tokens/colors.css` with a `$description`, and say so in your reply.
 3. Look at 2–3 existing files of the same kind and match them.
@@ -26,7 +30,7 @@ Paths below are relative to it. Scripts need only `python3` (3.9+, standard libr
 | Logo change | Logo | edit `assets/logo/emblem.svg`, then `scripts/build_logo_suite.py` | `assets/logo/`, `assets/app/` |
 | Larger illustration, badge, splash | Illustration | `templates/game-icon.svg`, bigger viewBox | `assets/illustrations/<name>.svg` |
 
-Names are lowercase kebab-case nouns: `crystal-shard`, `district-locked`.
+Names are lowercase kebab-case nouns using the game's own words: `beacon-gold`, `aero-cheering`, `coupon-cafe`.
 
 ## Rules by type
 
@@ -40,7 +44,7 @@ Names are lowercase kebab-case nouns: `crystal-shard`, `district-locked`.
 - `viewBox="0 0 64 64"`, object fills ~52–60 px.
 - Every `id` starts with `<filename>-` (e.g. `gem-chrome`) so icons can be inlined together.
 - Light from the top-left. Gradients from `tokens/colors.json → gradients`.
-- Separate the object from any background with a thin `ice` (#E8F6FC) or `serpent-shade` (#1F2534) outline.
+- Separate the object from any background with a thin `ice` (#E8F6FC) or `aero-shade` (#1F2534) outline.
 - Magic is cool (cyan → violet); warmth only from gold (`horn-gold` family).
 
 **Map marker** (checked like a game icon)

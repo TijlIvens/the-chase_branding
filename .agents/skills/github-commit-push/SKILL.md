@@ -35,7 +35,7 @@ Don't commit if the check fails. Fix the problem, or stop and report it.
 Stage the paths you changed by name. **Never** use `git add -A`, `git add .` or `git commit -a`:
 they sweep up other agents' half-finished work.
 ```bash
-git add assets/icons/game/crystal-shard.svg assets/gallery.html BRAND_BOOK.md
+git add assets/icons/game/beacon-shard.svg assets/gallery.html BRAND_BOOK.md
 git diff --cached --stat     # confirm only your files are staged
 ```
 Never commit: `.DS_Store`, `.env*`, keys/tokens, `*.pem`, editor folders, files over 10 MB,
@@ -63,7 +63,7 @@ unless the user added images on purpose.
 Scopes: `logo`, `icons`, `tokens`, `brand-book`, `skills`, `app`, `lettering`, `repo`.
 
 Examples:
-- `feat(icons): add crystal-shard game icon`
+- `feat(icons): add beacon-shard game icon`
 - `fix(tokens): correct serpent-belly hex to match key art`
 - `docs(brand-book): document ink lockups for light backgrounds`
 
@@ -71,7 +71,7 @@ One logical change per commit. If you did two unrelated things, make two commits
 Add your tool's own attribution trailer if it has one (e.g. `Co-Authored-By:`).
 
 ```bash
-git commit -m "feat(icons): add crystal-shard game icon" -m "Optional body."
+git commit -m "feat(icons): add beacon-shard game icon" -m "Optional body."
 ```
 
 ## 5. Sync, then push

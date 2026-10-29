@@ -30,3 +30,12 @@ Short version:
 
 Never edit files in `base-images/`. Never hand-edit logo derivatives; rebuild them
 with `scripts/build_logo_suite.py`.
+
+## Committing and pushing
+
+This repo is on GitHub: `TijlIvens/the-chase_branding` (branch `main`). When you finish a
+task that changed files, **commit and push it** by following
+**`.agents/skills/github-commit-push/SKILL.md`**:
+stage only your own files by name, use a Conventional Commit message
+(`feat(icons): add crystal-shard game icon`), then run
+`.agents/skills/github-commit-push/scripts/push.sh`. Never force-push.

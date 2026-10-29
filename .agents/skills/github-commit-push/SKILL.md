@@ -38,6 +38,11 @@ they sweep up other agents' half-finished work.
 git add assets/icons/game/beacon-shard.svg assets/gallery.html BRAND_BOOK.md
 git diff --cached --stat     # confirm only your files are staged
 ```
+**Renamed files:** `git mv old new` stages only the rename. Edits you make to `new` afterwards
+still need `git add new`. Don't pass `old` to `git add`: it no longer exists, so the command fails
+and stages nothing. Run each `git add` as its own command and check that it succeeded before
+you commit. After committing, `git status --short` must not list any of your files.
+
 Never commit: `.DS_Store`, `.env*`, keys/tokens, `*.pem`, editor folders, files over 10 MB,
 or anything in `.gitignore`. `base-images/` is read-only, so don't commit changes to it
 unless the user added images on purpose.

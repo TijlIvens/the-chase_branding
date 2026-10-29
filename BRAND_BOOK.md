@@ -212,9 +212,7 @@ Display lettering is always uppercase. Headings in sentence case; never all-caps
 - Angular, faceted shapes (diamonds, hexagons, chamfers) instead of circles where it reads.
   The diamond is the recurring motif (pin, scan, coin, search).
 
-Set: `home map compass location-pin player-position scan camera inventory profile team
-leaderboard trophy quest portal district gem coin energy shield serpent lock unlock timer
-sparkle notification chat settings share search info check close back plus`
+Set (111): `agent alert back badge battery bookmark calendar camera chat check chevron-down chevron-up close coin compass copy crown delete district download duel edit energy external-link eye eye-off filter finish fog footsteps forward fullscreen gem gift globe grid heart help hint history home image info inventory key landmark layers leaderboard level-up link list location-off location-pin lock login logout mail map medal menu mic minus moon more navigation notification offline pause play player-position plus portal profile qr-code quest radar rank recenter refresh route scan search send serpent settings share shield shield-check shop smartphone sort sparkle star stop streak sun target team ticket timer trophy unlock upload user-add volume volume-off wallet warning wifi zoom-in zoom-out`
 
 ### Game icons — [`assets/icons/game/`](assets/icons/game/)
 
@@ -224,7 +222,36 @@ sparkle notification chat settings share search info check close back plus`
 - Top-left light source; a thin `ice` or `serpent-shade` outline separates the
   object from any background.
 
-Set: `gem coin portal beacon serpent agent-badge energy key xp-star lock-district district quest-marker trophy`
+Set (34): `agent-badge beacon chest coin coin-stack compass crown crystal-shard district energy event-pass fog gem gem-legendary gem-rare gift hint hourglass key landmark level-up lock-district medal portal quest-marker radar rune-stone serpent shield-boost speed-boost streak treasure-map trophy xp-star`
+
+### Map markers: [`assets/icons/map/`](assets/icons/map/)
+
+- 64 × 64, one shared angular pin (`M32 62 12 34V16L22 4h20l10 12v18z`) filled `midnight`,
+  with a 3 px coloured rim and a symbol inside. The tip at (32, 62) is the anchor point.
+- **Colour tells you what it is before you read the symbol**:
+
+| Rim | Meaning | Markers |
+|---|---|---|
+| `chase-cyan` / `crystal` | you, collectibles | `marker-player`, `marker-gem` |
+| `violet-glow` | portals, magic | `marker-portal` |
+| `danger` | threat | `marker-serpent` |
+| `armor-glow` | rival | `marker-agent` |
+| `horn-gold` | places, quests, shop | `marker-landmark`, `marker-quest`, `marker-shop` |
+| `success` | friends | `marker-friend` |
+| `steel` | locked / unavailable | `marker-locked` |
+| `signal-blue` | grouped markers | `marker-cluster` |
+
+Set (11): `marker-agent marker-cluster marker-friend marker-gem marker-landmark marker-locked marker-player marker-portal marker-quest marker-serpent marker-shop`
+
+### Rarity
+
+Gems come in three tiers. Use the same colours for rarity frames and labels.
+
+| Tier | Icon | Colours |
+|---|---|---|
+| Common | `gem` | `crystal` family |
+| Rare | `gem-rare` | `violet-glow`, `ultraviolet`, `deep-indigo` |
+| Legendary | `gem-legendary` | `gold-light`, `horn-gold`, `horn-shadow` |
 
 ---
 

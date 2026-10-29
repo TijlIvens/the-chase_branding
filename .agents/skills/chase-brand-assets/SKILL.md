@@ -20,7 +20,8 @@ Paths below are relative to it. Scripts need only `python3` (3.9+, standard libr
 | Asking for… | Type | Start from | Save to |
 |---|---|---|---|
 | Interface glyph (nav, buttons, toolbar) | UI icon | `templates/ui-icon.svg` | `assets/icons/ui/<name>.svg` |
-| Item, reward, character, map object, achievement | Game icon | `templates/game-icon.svg` | `assets/icons/game/<name>.svg` |
+| Item, reward, character, power-up, achievement | Game icon | `templates/game-icon.svg` | `assets/icons/game/<name>.svg` |
+| Something placed on the map | Map marker | copy any `assets/icons/map/marker-*.svg`, keep the pin path | `assets/icons/map/marker-<name>.svg` |
 | Title, banner text, event name | Lettering | `scripts/wordmark.py` | `assets/lettering/<name>.svg` |
 | Logo change | Logo | edit `assets/logo/emblem.svg`, then `scripts/build_logo_suite.py` | `assets/logo/`, `assets/app/` |
 | Larger illustration, badge, splash | Illustration | `templates/game-icon.svg`, bigger viewBox | `assets/illustrations/<name>.svg` |
@@ -41,6 +42,11 @@ Names are lowercase kebab-case nouns: `crystal-shard`, `district-locked`.
 - Light from the top-left. Gradients from `tokens/colors.json → gradients`.
 - Separate the object from any background with a thin `ice` (#E8F6FC) or `serpent-shade` (#1F2534) outline.
 - Magic is cool (cyan → violet); warmth only from gold (`horn-gold` family).
+
+**Map marker** (checked like a game icon)
+- Keep the shared pin path and `#0B0E24` fill unchanged; only change the rim colour and the symbol.
+- Pick the rim colour by meaning from `BRAND_BOOK.md` §5 (danger = threat, gold = places, …).
+- Keep the symbol inside x 18–46, y 8–40 so it stays clear of the rim.
 
 **Lettering**
 ```bash

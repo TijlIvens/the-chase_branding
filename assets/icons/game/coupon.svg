@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Partner coupon">
+  <defs><linearGradient id="coupon-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient></defs>
+  <path d="M4 14h56v12l-4 6 4 6v12H4V38l4-6-4-6z" fill="url(#coupon-gold)"/>
+  <path d="M42 16v4M42 24v4M42 32v4M42 40v4M42 46v2" stroke="#8D7850" stroke-width="2"/>
+  <path d="M14 42l16-20" stroke="#10386B" stroke-width="4"/>
+  <path d="M15 22l4 4-4 4-4-4zM29 34l4 4-4 4-4-4z" fill="#10386B"/>
+  <path d="M51 28l3 4-3 4-3-4z" fill="#4ADEF6"/>
+  <path d="M4 14h56v12l-4 6 4 6v12H4V38l4-6-4-6z" fill="none" stroke="#FFF6DD" stroke-width="1.5" stroke-linejoin="miter"/>
+</svg>

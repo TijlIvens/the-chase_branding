@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Beacon collected">
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="#0B0E24"/>
+  <path d="M32 62 12 34V16L22 4h20l10 12v18z" fill="none" stroke="#3DDC97" stroke-width="3" stroke-linejoin="miter"/>
+  <path d="M24 14h16l6 8-14 16-14-16z" fill="#3B8ACB" opacity="0.5"/>
+  <path d="M21 24l8 8 14-14" fill="none" stroke="#3DDC97" stroke-width="4" stroke-linecap="square"/>
+</svg>

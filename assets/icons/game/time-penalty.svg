@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Time penalty: minus 5 seconds">
+  <defs><linearGradient id="time-penalty-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient></defs>
+  <path d="M24 2h16" stroke="url(#time-penalty-chrome)" stroke-width="4"/>
+  <path d="M32 6l18 10v20L32 46 14 36V16z" fill="#F5B841"/>
+  <path d="M32 6l18 10v20L32 46 14 36V16z" fill="none" stroke="#FFF6DD" stroke-width="2" stroke-linejoin="miter"/>
+  <path d="M32 14v12l7 4" fill="none" stroke="#0B0E24" stroke-width="4" stroke-linecap="square"/>
+  <path d="M12 46h40l4 8-4 8H12l-4-8z" fill="#0B0E24" stroke="#F5B841" stroke-width="2" stroke-linejoin="miter"/>
+  <g transform="translate(14.9 46.7)" fill="none" stroke="#F5B841" stroke-width="2.6" stroke-linecap="square"><path d="M1.3 7.9 L7.3 7.9 M20.0 1.3 L10.9 1.3 L10.9 7.3 L18.7 7.3 L20.0 8.7 L20.0 11.5 L18.7 13.3 L10.9 13.3 M33.0 1.3 L25.0 1.3 L23.6 3.1 L23.6 5.9 L25.0 7.3 L31.6 7.3 L33.0 8.7 L33.0 11.5 L31.6 13.3 L23.6 13.3"/></g>
+</svg>

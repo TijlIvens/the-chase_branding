@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Multiple-choice question">
+  <defs><linearGradient id="question-card-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient></defs>
+  <path d="M8 4h48v56H8z" fill="#0F1033"/>
+  <path d="M8 4h48v56H8z" fill="none" stroke="url(#question-card-chrome)" stroke-width="2.5"/>
+  <path d="M14 10h36M14 15h24" stroke="#DCDFE9" stroke-width="3"/>
+  <path d="M14 22h36v7H14z" fill="#1F62BC"/><path d="M18 23.5l2 2-2 2-2-2z" fill="#F8F8FB"/><path d="M24 25.5h16" stroke="#F8F8FB" stroke-width="1.5" opacity="0.7"/><path d="M14 31h36v7H14z" fill="#3DDC97"/><path d="M18 32.5l2 2-2 2-2-2z" fill="#F8F8FB"/><path d="M24 34.5h20" stroke="#F8F8FB" stroke-width="1.5" opacity="0.7"/><path d="M14 40h36v7H14z" fill="#1F62BC"/><path d="M18 41.5l2 2-2 2-2-2z" fill="#F8F8FB"/><path d="M24 43.5h16" stroke="#F8F8FB" stroke-width="1.5" opacity="0.7"/><path d="M14 49h36v7H14z" fill="#1F62BC"/><path d="M18 50.5l2 2-2 2-2-2z" fill="#F8F8FB"/><path d="M24 52.5h16" stroke="#F8F8FB" stroke-width="1.5" opacity="0.7"/>
+</svg>

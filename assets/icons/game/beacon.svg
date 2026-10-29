@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Location beacon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Diamond Beacon">
   <defs><radialGradient id="beacon-glow"><stop offset="0" stop-color="#4ADEF6" stop-opacity="0.55"/><stop offset="1" stop-color="#4ADEF6" stop-opacity="0"/></radialGradient></defs>
   <ellipse cx="32" cy="54" rx="22" ry="6" fill="url(#beacon-glow)"/>
   <ellipse cx="32" cy="54" rx="16" ry="4" fill="none" stroke="#4ADEF6" stroke-width="2.5"/>

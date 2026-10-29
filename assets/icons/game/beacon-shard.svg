@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Crystal shard">
-  <defs><radialGradient id="crystal-shard-glow"><stop offset="0" stop-color="#4ADEF6" stop-opacity="0.6"/><stop offset="1" stop-color="#4ADEF6" stop-opacity="0"/></radialGradient></defs>
-  <circle cx="32" cy="34" r="24" fill="url(#crystal-shard-glow)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Beacon shard">
+  <defs><radialGradient id="beacon-shard-glow"><stop offset="0" stop-color="#4ADEF6" stop-opacity="0.6"/><stop offset="1" stop-color="#4ADEF6" stop-opacity="0"/></radialGradient></defs>
+  <circle cx="32" cy="34" r="24" fill="url(#beacon-shard-glow)"/>
   <path d="M32 4l12 20-12 36-12-36z" fill="#4FA8D9"/>
   <path d="M32 4l12 20H32z" fill="#79DCF4"/><path d="M20 24h12v36z" fill="#2D74C2"/><path d="M32 24h12L32 60z" fill="#3B8ACB"/>
   <path d="M32 8l-8 14h6z" fill="#E8F6FC"/>

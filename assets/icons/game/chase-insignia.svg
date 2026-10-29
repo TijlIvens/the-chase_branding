@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Agent badge">
-  <defs><linearGradient id="agent-badge-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient></defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Chase insignia">
+  <defs><linearGradient id="chase-insignia-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient></defs>
   <path d="M10 8h44l-4 30-18 20-18-20z" fill="#1E1C22"/>
-  <path d="M10 8h44l-4 30-18 20-18-20z" fill="none" stroke="url(#agent-badge-chrome)" stroke-width="3" stroke-linejoin="miter"/>
+  <path d="M10 8h44l-4 30-18 20-18-20z" fill="none" stroke="url(#chase-insignia-chrome)" stroke-width="3" stroke-linejoin="miter"/>
   <path d="M20 18h24L32 40z" fill="none" stroke="#3FA9F5" stroke-width="3" stroke-linejoin="miter"/>
   <path d="M26 22h12l-6 11z" fill="#4ADEF6" opacity="0.5"/>
   <circle cx="22" cy="48" r="1.8" fill="#C9A55C"/><circle cx="42" cy="48" r="1.8" fill="#C9A55C"/>

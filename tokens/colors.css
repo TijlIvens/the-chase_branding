@@ -15,7 +15,7 @@
   --chase-silver: #DCDFE9;
   --chase-steel: #8E97B3;
 
-  /* crystal */
+  /* diamond */
   --chase-ice: #E8F6FC;
   --chase-crystal: #79DCF4;
   --chase-gem-blue: #4FA8D9;
@@ -23,17 +23,17 @@
   --chase-gem-deep: #2D74C2;
 
   /* characters */
-  --chase-serpent-scale: #395073;
-  --chase-serpent-belly: #6E6A92;
-  --chase-serpent-head: #54838B;
-  --chase-serpent-shade: #1F2534;
+  --chase-aero-scale: #395073;
+  --chase-aero-belly: #6E6A92;
+  --chase-aero-head: #54838B;
+  --chase-aero-shade: #1F2534;
   --chase-horn-gold: #C9A55C;
   --chase-gold-light: #E9CF8E;
   --chase-gold-shine: #FFF6DD;
   --chase-horn-shadow: #8D7850;
-  --chase-agent-coat: #1E1C22;
-  --chase-agent-leather: #905635;
-  --chase-agent-shirt: #ACBDC9;
+  --chase-inventor-coat: #1E1C22;
+  --chase-inventor-leather: #905635;
+  --chase-inventor-shirt: #ACBDC9;
   --chase-armor-glow: #3FA9F5;
 
   /* city */
@@ -52,6 +52,6 @@
   --chase-gradient-emblem-glow: linear-gradient(90deg, #2590D9 0%, #4ADEF6 45%, #9B6BFF 75%, #662DC2 100%);
   --chase-gradient-night-sky: radial-gradient(circle at 50% 40%, #201153 0%, #0B0E24 55%, #05040B 100%);
   --chase-gradient-chrome: linear-gradient(180deg, #F8F8FB 0%, #DCDFE9 55%, #8E97B3 100%);
-  --chase-gradient-crystal: linear-gradient(160deg, #E8F6FC 0%, #79DCF4 35%, #4FA8D9 65%, #2D74C2 100%);
+  --chase-gradient-diamond: linear-gradient(160deg, #E8F6FC 0%, #79DCF4 35%, #4FA8D9 65%, #2D74C2 100%);
   --chase-gradient-portal: radial-gradient(circle, #E8F6FC 0%, #4ADEF6 25%, #2590D9 55%, #10386B 100%);
 }

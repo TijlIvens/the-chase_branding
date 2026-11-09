@@ -1,0 +1,32 @@
+# Destination covers
+
+Full-bleed 3:2 landscape illustrations for the app's country and city overview cards.
+
+- `countries/`: 14 national panoramas with a flag, recognizable local foods, and prominent landmarks.
+- `cities/`: 29 city panoramas featuring local landmark buildings and statues or public sculptures.
+- `index.html`: labeled browser gallery with individual downloads.
+- `manifest.json`: image paths, place labels, and scene descriptions.
+- `cover-briefs.json`: shared art direction, original project references, and every destination brief.
+- `generation-prompts.json`: exact prompts and source-image records for the selected images.
+- `preview-countries.jpg` and `preview-cities.jpg`: contact sheets.
+
+The painted architectural detail, blue-hour lighting, golden city lights, Aero design,
+and cyan Diamond Beacons follow the existing project illustrations. Architecture is
+the primary subject; Aero and the beacon are supporting foreground elements.
+Panoramas are artistic compositions combining local landmarks, rather than literal
+geographic viewpoints. Country scenes intentionally combine different cities.
+
+Images contain no location names or logos, so the app can render localized titles.
+Use a 3:2 image area to retain the complete composition. These are cover illustrations,
+separate from the 64 px SVG game icons.
+
+Generated with the built-in image-generation tool, using the project's original
+illustrations and the initial Belgium cover as style/character references. Selected
+images are delivered as high-quality JPEGs for convenient app use. Original reference
+files in `base-images/` were left unchanged.
+
+Rebuild the manifest and gallery after updating an image:
+
+```sh
+python3 scripts/build_cover_gallery.py
+```

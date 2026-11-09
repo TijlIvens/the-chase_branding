@@ -311,6 +311,14 @@ Diamond Beacons can come in three tiers (e.g. harder questions give rarer beacon
 
 ---
 
+### Destination overview covers
+
+The app overview uses full-bleed **3:2 landscape painted illustrations**, separate from the small SVG game icons. Country covers combine prominent landmarks with a national flag and local food still life. City covers show local landmark buildings and statues or public sculptures. Aero and a cyan Diamond Beacon remain supporting foreground elements. Keep the blue-hour lighting, architectural detail, and character rendering consistent across the collection. These are art-directed landmark panoramas, not geographic maps.
+
+Assets, gallery, scene manifest, and generation briefs: [`assets/covers/`](assets/covers/README.md).
+
+---
+
 ## 7. Voice
 
 Short, energetic, second person. Verbs first. Curious and encouraging: the player is the hero,

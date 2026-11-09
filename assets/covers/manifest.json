@@ -1,0 +1,389 @@
+[
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "type": "countries",
+    "image": "countries/belgium.jpg",
+    "aspectRatio": "3:2",
+    "description": "Brussels Grand Place guildhouses and town hall, Antwerp Cathedral of Our Lady, Bruges stepped-gable canal houses, Atomium in distance. Belgian flag: three equal VERTICAL bands BLACK, YELLOW, RED left to right. Local foods on a small tasteful foreground cafe table at lower left edge: Belgian waffle, paper cone of fries, fine praline chocolates. Keep the food grouping secondary, beautifully painted, no packaging labels.",
+    "countryId": "belgium"
+  },
+  {
+    "id": "netherlands",
+    "name": "The Netherlands",
+    "type": "countries",
+    "image": "countries/netherlands.jpg",
+    "aspectRatio": "3:2",
+    "description": "Amsterdam canal houses with arched bridge and bicycles; a traditional Dutch windmill along water, Rotterdam Erasmus Bridge in distance. Dutch flag: three equal HORIZONTAL bands RED, WHITE, BLUE top to bottom. Foods on small foreground cafe table: stroopwafels, wedges of Gouda cheese, small plate of bitterballen. Secondary food still life, no labels.",
+    "countryId": "netherlands"
+  },
+  {
+    "id": "united-kingdom",
+    "name": "United Kingdom",
+    "type": "countries",
+    "image": "countries/united-kingdom.jpg",
+    "aspectRatio": "3:2",
+    "description": "London Elizabeth Tower and Palace of Westminster, Tower Bridge, Edinburgh Castle on a distant rise. Correct Union Jack on a modest flagpole with blue ground and white/red crosses and offset diagonals. Foods on small foreground cafe table: fish and chips, scones with clotted cream and jam, a cup of tea. Secondary food still life, no labels.",
+    "countryId": "united-kingdom"
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "type": "countries",
+    "image": "countries/france.jpg",
+    "aspectRatio": "3:2",
+    "description": "Paris Eiffel Tower, Arc de Triomphe, Notre Dame cathedral with two west towers and its central spire; elegant Seine embankment foreground. French flag: three equal VERTICAL bands BLUE, WHITE, RED left to right. Foods on foreground cafe table: croissant, baguette, small selection of French cheeses. Secondary food still life, no labels.",
+    "countryId": "france"
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "type": "countries",
+    "image": "countries/germany.jpg",
+    "aspectRatio": "3:2",
+    "description": "Berlin Brandenburg Gate, Munich Frauenkirche twin domed towers, Neuschwanstein Castle in a misty distant hill. German flag: three equal HORIZONTAL bands BLACK, RED, GOLD top to bottom. Foods on small foreground table: pretzel, bratwurst in bread, slice of Black Forest cake. Secondary food still life, no labels.",
+    "countryId": "germany"
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "type": "countries",
+    "image": "countries/italy.jpg",
+    "aspectRatio": "3:2",
+    "description": "Rome Colosseum, Florence cathedral's terracotta dome, Leaning Tower of Pisa, a little Venetian canal frontage combining into an Italian panorama. Italian flag: three equal VERTICAL bands GREEN, WHITE, RED left to right. Foods on small foreground table: Margherita pizza, bowl of pasta, gelato in cup. Secondary food still life, no labels.",
+    "countryId": "italy"
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "type": "countries",
+    "image": "countries/spain.jpg",
+    "aspectRatio": "3:2",
+    "description": "Barcelona Sagrada Familia, Madrid Royal Palace, Alhambra towers in distant landscaped hill, warm Spanish plaza. Spanish flag: HORIZONTAL RED-YELLOW-RED, middle yellow band twice the height of each red band, small authentic coat of arms toward hoist. Foods on small foreground table: pan of paella, churros with chocolate, small tapas dishes. Secondary food still life, no labels.",
+    "countryId": "spain"
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "type": "countries",
+    "image": "countries/portugal.jpg",
+    "aspectRatio": "3:2",
+    "description": "Lisbon Belem Tower and Monument to the Discoveries, Porto Dom Luis I bridge across Douro-inspired waterfront, tiled riverside houses. Portuguese flag: VERTICAL GREEN 2/5 at hoist, RED 3/5 at fly, small coat of arms on armillary sphere at border. Foods on small foreground cafe table: pasteis de nata custard tarts, grilled sardines, bowl of caldo verde. Secondary food still life, no labels.",
+    "countryId": "portugal"
+  },
+  {
+    "id": "india",
+    "name": "India",
+    "type": "countries",
+    "image": "countries/india.jpg",
+    "aspectRatio": "3:2",
+    "description": "Taj Mahal with central white dome and four minarets as dominant distant focus, Delhi India Gate, Mumbai Gateway of India, layered Indian urban riverfront. Indian flag: three equal HORIZONTAL bands SAFFRON, WHITE, GREEN, navy blue 24-spoke Ashoka Chakra centered on white. Foods on small foreground table: samosas, thali with small curry bowls and rice, naan and cup of chai. Secondary food still life, no labels.",
+    "countryId": "india"
+  },
+  {
+    "id": "usa",
+    "name": "USA",
+    "type": "countries",
+    "image": "countries/usa.jpg",
+    "aspectRatio": "3:2",
+    "description": "New York Statue of Liberty and Empire State skyline, San Francisco Golden Gate Bridge, US Capitol dome in a distant composed vista. Correct United States flag with 13 alternating red and white horizontal stripes, blue canton at upper hoist containing small white stars. Foods on small foreground table: hamburger, apple pie slice, barbecue corn on cob. Secondary food still life, no labels.",
+    "countryId": "usa"
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "type": "countries",
+    "image": "countries/brazil.jpg",
+    "aspectRatio": "3:2",
+    "description": "Rio Christ the Redeemer statue on Corcovado above Sugarloaf Mountain and bay, colorful Selaron-style steps in foreground and Sao Paulo skyline in distance. Brazilian flag green field, yellow rhombus, blue globe with white curved band and small white stars; depict emblem faithfully at plausible small scale, no enlarged lettering. Foods on small foreground table: feijoada with rice and orange slices, pao de queijo, brigadeiros. Secondary food still life, no labels.",
+    "countryId": "brazil"
+  },
+  {
+    "id": "china",
+    "name": "China",
+    "type": "countries",
+    "image": "countries/china.jpg",
+    "aspectRatio": "3:2",
+    "description": "Beijing Temple of Heaven round tiered blue roofs, Forbidden City imperial gate and guardian lions, Great Wall running over distant hills, Shanghai Oriental Pearl in far skyline. Correct Chinese flag: RED field, one large YELLOW star near upper hoist with four smaller yellow stars curving to its right. Foods on small foreground table: bamboo steamer of dumplings, roast duck pancakes, bowl of noodles. Secondary food still life, no labels.",
+    "countryId": "china"
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "type": "countries",
+    "image": "countries/japan.jpg",
+    "aspectRatio": "3:2",
+    "description": "Kyoto Toji five-story pagoda, Fushimi Inari vermilion torii walkway, Tokyo Tower and modern skyline distant, Fuji mountain in mist. Japanese flag white rectangular field with centered RED circular disc. Foods on small foreground table: sushi assortment, bowl of ramen, matcha tea and mochi. Secondary food still life, no labels.",
+    "countryId": "japan"
+  },
+  {
+    "id": "thailand",
+    "name": "Thailand",
+    "type": "countries",
+    "image": "countries/thailand.jpg",
+    "aspectRatio": "3:2",
+    "description": "Bangkok Wat Arun central prang and Grand Palace gilded roofs, Chiang Mai Doi Suthep temple in distant mountain, lush riverfront. Thai flag five HORIZONTAL bands RED, WHITE, BLUE, WHITE, RED; central blue band twice the height of each other band. Foods on small foreground table: pad thai, tom yum soup, mango sticky rice. Secondary food still life, no labels.",
+    "countryId": "thailand"
+  },
+  {
+    "id": "brussels",
+    "name": "Brussels",
+    "type": "cities",
+    "image": "cities/brussels.jpg",
+    "aspectRatio": "3:2",
+    "description": "Grand Place town hall and richly detailed guildhouses dominate; recognizable small Manneken Pis bronze fountain statue in the foreground, Atomium distant. No country flag or food still life needed.",
+    "countryId": "belgium"
+  },
+  {
+    "id": "antwerp",
+    "name": "Antwerp",
+    "type": "cities",
+    "image": "cities/antwerp.jpg",
+    "aspectRatio": "3:2",
+    "description": "Cathedral of Our Lady spire, Grote Markt guildhouses, Brabo fountain statue as recognizable bronze foreground landmark, Antwerp Centraal station dome in midground.",
+    "countryId": "belgium"
+  },
+  {
+    "id": "bruges",
+    "name": "Bruges",
+    "type": "cities",
+    "image": "cities/bruges.jpg",
+    "aspectRatio": "3:2",
+    "description": "Belfry above Markt, stepped-gable houses and Rozenhoedkaai canal bridge, Jan Breydel and Pieter de Coninck bronze double statue as a smaller sculptural landmark.",
+    "countryId": "belgium"
+  },
+  {
+    "id": "amsterdam",
+    "name": "Amsterdam",
+    "type": "cities",
+    "image": "cities/amsterdam.jpg",
+    "aspectRatio": "3:2",
+    "description": "Distinctive narrow canal houses, Westerkerk tower and Magere Brug; Rembrandt statue on a pedestal near the canal-side foreground, subtle bicycles.",
+    "countryId": "netherlands"
+  },
+  {
+    "id": "rotterdam",
+    "name": "Rotterdam",
+    "type": "cities",
+    "image": "cities/rotterdam.jpg",
+    "aspectRatio": "3:2",
+    "description": "Erasmus Bridge and angular Cube Houses beside river; recognizable dark bronze The Destroyed City sculpture with raised arms as a foreground landmark, modern skyline.",
+    "countryId": "netherlands"
+  },
+  {
+    "id": "london",
+    "name": "London",
+    "type": "cities",
+    "image": "cities/london.jpg",
+    "aspectRatio": "3:2",
+    "description": "Elizabeth Tower and Houses of Parliament along Thames, Tower Bridge; Nelson's Column with sculpted lions incorporated into foreground plaza montage, authentic proportions.",
+    "countryId": "united-kingdom"
+  },
+  {
+    "id": "edinburgh",
+    "name": "Edinburgh",
+    "type": "cities",
+    "image": "cities/edinburgh.jpg",
+    "aspectRatio": "3:2",
+    "description": "Edinburgh Castle on Castle Rock, Royal Mile stone buildings, Scott Monument gothic canopy with its seated Walter Scott statue discernible; Arthur's Seat distant.",
+    "countryId": "united-kingdom"
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "type": "cities",
+    "image": "cities/paris.jpg",
+    "aspectRatio": "3:2",
+    "description": "Eiffel Tower, Notre Dame west facade and Arc de Triomphe in distant vista along Seine; small gilded equestrian Joan of Arc statue in foreground plaza.",
+    "countryId": "france"
+  },
+  {
+    "id": "lyon",
+    "name": "Lyon",
+    "type": "cities",
+    "image": "cities/lyon.jpg",
+    "aspectRatio": "3:2",
+    "description": "Fourviere basilica on the hill, Vieux Lyon riverside architecture and Saone bridge, bronze equestrian Louis XIV statue in a foreground plaza inspired by Place Bellecour.",
+    "countryId": "france"
+  },
+  {
+    "id": "berlin",
+    "name": "Berlin",
+    "type": "cities",
+    "image": "cities/berlin.jpg",
+    "aspectRatio": "3:2",
+    "description": "Brandenburg Gate, Reichstag dome and Fernsehturm skyline; Berlin Victory Column crowned by gilded winged Victoria as sculptural landmark. No flags, no food required.",
+    "countryId": "germany"
+  },
+  {
+    "id": "munich",
+    "name": "Munich",
+    "type": "cities",
+    "image": "cities/munich.jpg",
+    "aspectRatio": "3:2",
+    "description": "Marienplatz New Town Hall and Frauenkirche twin onion domes, Bavaria bronze statue on pedestal as a smaller foreground sculptural landmark, Bavarian streets.",
+    "countryId": "germany"
+  },
+  {
+    "id": "rome",
+    "name": "Rome",
+    "type": "cities",
+    "image": "cities/rome.jpg",
+    "aspectRatio": "3:2",
+    "description": "Colosseum, Roman Forum columns and distant St Peter's dome; equestrian Marcus Aurelius statue on pedestal, ancient Roman cobbles.",
+    "countryId": "italy"
+  },
+  {
+    "id": "milan",
+    "name": "Milan",
+    "type": "cities",
+    "image": "cities/milan.jpg",
+    "aspectRatio": "3:2",
+    "description": "Milan Cathedral highly detailed gothic facade and spires, Galleria Vittorio Emanuele entrance; Leonardo da Vinci statue on its sculpted pedestal as foreground landmark.",
+    "countryId": "italy"
+  },
+  {
+    "id": "madrid",
+    "name": "Madrid",
+    "type": "cities",
+    "image": "cities/madrid.jpg",
+    "aspectRatio": "3:2",
+    "description": "Royal Palace and Puerta de Alcala, recognizable Bear and Strawberry Tree bronze statue as foreground sculptural landmark, elegant plaza.",
+    "countryId": "spain"
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "type": "cities",
+    "image": "cities/barcelona.jpg",
+    "aspectRatio": "3:2",
+    "description": "Sagrada Familia with distinctive tapered spires, Casa Batllo facade and Park Guell mosaic dragon fountain in foreground; Mediterranean city backdrop.",
+    "countryId": "spain"
+  },
+  {
+    "id": "lisbon",
+    "name": "Lisbon",
+    "type": "cities",
+    "image": "cities/lisbon.jpg",
+    "aspectRatio": "3:2",
+    "description": "Belem Tower, Jeronimos Monastery and Tagus river; Monument to the Discoveries prow with carved explorers as sculptural landmark, tiled pavement.",
+    "countryId": "portugal"
+  },
+  {
+    "id": "porto",
+    "name": "Porto",
+    "type": "cities",
+    "image": "cities/porto.jpg",
+    "aspectRatio": "3:2",
+    "description": "Dom Luis I bridge over Douro, Ribeira colorful houses and Clerigos tower; equestrian Dom Pedro IV statue on a smaller foreground pedestal.",
+    "countryId": "portugal"
+  },
+  {
+    "id": "new-delhi",
+    "name": "New Delhi",
+    "type": "cities",
+    "image": "cities/new-delhi.jpg",
+    "aspectRatio": "3:2",
+    "description": "India Gate, red sandstone Red Fort gate and Humayun's Tomb dome; seated Mahatma Gandhi statue as a serene smaller foreground landmark.",
+    "countryId": "india"
+  },
+  {
+    "id": "mumbai",
+    "name": "Mumbai",
+    "type": "cities",
+    "image": "cities/mumbai.jpg",
+    "aspectRatio": "3:2",
+    "description": "Gateway of India and Taj Mahal Palace hotel with central red dome, Chhatrapati Shivaji Maharaj Terminus gothic architecture in midground; equestrian Shivaji statue as a secondary foreground landmark.",
+    "countryId": "india"
+  },
+  {
+    "id": "new-york",
+    "name": "New York",
+    "type": "cities",
+    "image": "cities/new-york.jpg",
+    "aspectRatio": "3:2",
+    "description": "Statue of Liberty prominently recognizable on left across harbor, Empire State Building, Chrysler Building and Brooklyn Bridge. Liberty is the main landmark statue, do not duplicate her.",
+    "countryId": "usa"
+  },
+  {
+    "id": "san-francisco",
+    "name": "San Francisco",
+    "type": "cities",
+    "image": "cities/san-francisco.jpg",
+    "aspectRatio": "3:2",
+    "description": "Golden Gate Bridge, Palace of Fine Arts rotunda and steep Victorian streets; Cupid's Span large bow-and-arrow public sculpture as secondary waterfront landmark, subtle bay mist.",
+    "countryId": "usa"
+  },
+  {
+    "id": "rio-de-janeiro",
+    "name": "Rio de Janeiro",
+    "type": "cities",
+    "image": "cities/rio-de-janeiro.jpg",
+    "aspectRatio": "3:2",
+    "description": "Christ the Redeemer statue on Corcovado as skyline focus, Sugarloaf Mountain and Guanabara Bay, colorful Selaron steps foreground and coastal buildings. Do not duplicate the Redeemer.",
+    "countryId": "brazil"
+  },
+  {
+    "id": "sao-paulo",
+    "name": "Sao Paulo",
+    "type": "cities",
+    "image": "cities/sao-paulo.jpg",
+    "aspectRatio": "3:2",
+    "description": "MASP glass museum with red structural beams, Sao Paulo Cathedral twin spires and Paulista skyline; Monument to the Bandeiras stone sculptural group as secondary foreground landmark.",
+    "countryId": "brazil"
+  },
+  {
+    "id": "beijing",
+    "name": "Beijing",
+    "type": "cities",
+    "image": "cities/beijing.jpg",
+    "aspectRatio": "3:2",
+    "description": "Temple of Heaven's round triple blue roof, Forbidden City's imperial architecture and a distant Great Wall ridge; finely carved bronze guardian lion statues in foreground, no political portraits.",
+    "countryId": "china"
+  },
+  {
+    "id": "shanghai",
+    "name": "Shanghai",
+    "type": "cities",
+    "image": "cities/shanghai.jpg",
+    "aspectRatio": "3:2",
+    "description": "Oriental Pearl Tower, Shanghai Tower and Bund historic waterfront buildings on Huangpu River; Bund Bull bronze statue as secondary foreground sculptural landmark.",
+    "countryId": "china"
+  },
+  {
+    "id": "tokyo",
+    "name": "Tokyo",
+    "type": "cities",
+    "image": "cities/tokyo.jpg",
+    "aspectRatio": "3:2",
+    "description": "Tokyo Tower and Sensoji temple with pagoda, Shibuya modern skyline in distance; small recognizable bronze Hachiko dog statue on pedestal foreground.",
+    "countryId": "japan"
+  },
+  {
+    "id": "kyoto",
+    "name": "Kyoto",
+    "type": "cities",
+    "image": "cities/kyoto.jpg",
+    "aspectRatio": "3:2",
+    "description": "Toji five-story pagoda, Fushimi Inari torii gates and Kiyomizu-dera wooden terrace; carved stone kitsune fox guardian statues at foreground shrine entrance, greenery.",
+    "countryId": "japan"
+  },
+  {
+    "id": "bangkok",
+    "name": "Bangkok",
+    "type": "cities",
+    "image": "cities/bangkok.jpg",
+    "aspectRatio": "3:2",
+    "description": "Wat Arun central prang across Chao Phraya, Grand Palace and Wat Phra Kaew layered golden rooflines; ornate yaksha guardian statues as secondary foreground landmark sculptures.",
+    "countryId": "thailand"
+  },
+  {
+    "id": "chiang-mai",
+    "name": "Chiang Mai",
+    "type": "cities",
+    "image": "cities/chiang-mai.jpg",
+    "aspectRatio": "3:2",
+    "description": "Doi Suthep gilded chedi on a distant green hillside, Wat Chedi Luang brick stupa and old city walls; Three Kings Monument bronze trio as secondary foreground sculptural landmark.",
+    "countryId": "thailand"
+  }
+]

@@ -135,6 +135,114 @@
     "countryId": "czech-republic"
   },
   {
+    "id": "australia",
+    "name": "Australia",
+    "type": "countries",
+    "image": "australia/australia.jpg",
+    "aspectRatio": "3:2",
+    "description": "Sydney Opera House and Sydney Harbour Bridge, Melbourne Royal Exhibition Building, Uluru as a distant red sandstone monolith. Australian flag: deep blue field, Union Jack upper hoist, large white seven-point Commonwealth Star below it, five white Southern Cross stars on fly (four seven-point stars and one smaller five-point star). Foods: Australian meat pie, chocolate-coconut lamingtons, grilled prawns.",
+    "countryId": "australia"
+  },
+  {
+    "id": "south-africa",
+    "name": "South Africa",
+    "type": "countries",
+    "image": "south-africa/south-africa.jpg",
+    "aspectRatio": "3:2",
+    "description": "Table Mountain and Cape Town waterfront, Pretoria Union Buildings, Johannesburg skyline. South African flag accurately showing red upper band, blue lower band, central GREEN horizontal Y with WHITE borders separating green from red and blue, BLACK triangle at hoist bordered in GOLD. Foods: bobotie in a small baking dish, grilled boerewors, malva pudding.",
+    "countryId": "south-africa"
+  },
+  {
+    "id": "new-zealand",
+    "name": "New Zealand",
+    "type": "countries",
+    "image": "new-zealand/new-zealand.jpg",
+    "aspectRatio": "3:2",
+    "description": "Auckland Sky Tower and harbour, Wellington Beehive parliament, Mitre Peak rising above Milford Sound in a distant national panorama. New Zealand flag: blue field, Union Jack upper hoist, FOUR RED five-point Southern Cross stars edged WHITE on the fly; no Commonwealth Star. Foods: plated hangi-style meat with kumara vegetables, green-lipped mussels, small pavlova with kiwifruit.",
+    "countryId": "new-zealand"
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "type": "countries",
+    "image": "canada/canada.jpg",
+    "aspectRatio": "3:2",
+    "description": "Toronto CN Tower, Quebec City's Chateau Frontenac, Vancouver Canada Place white sails with Rocky Mountain scenery behind. Canadian flag: RED vertical side panels, WHITE central panel twice the width of each red panel, centered RED eleven-point maple leaf. Foods: poutine, butter tarts, pancakes with maple syrup.",
+    "countryId": "canada"
+  },
+  {
+    "id": "united-arab-emirates",
+    "name": "United Arab Emirates",
+    "type": "countries",
+    "image": "united-arab-emirates/united-arab-emirates.jpg",
+    "aspectRatio": "3:2",
+    "description": "Dubai Burj Khalifa and sail-shaped Burj Al Arab, Abu Dhabi Sheikh Zayed Grand Mosque and Qasr Al Watan palace. UAE flag: RED vertical hoist band, remaining field has equal GREEN, WHITE, BLACK horizontal bands top to bottom. Foods: machboos rice with chicken, luqaimat dumplings with date syrup, dates beside small Arabic coffee cups.",
+    "countryId": "united-arab-emirates"
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "type": "countries",
+    "image": "qatar/qatar.jpg",
+    "aspectRatio": "3:2",
+    "description": "Doha Museum of Islamic Art and West Bay skyline, National Museum of Qatar interlocking desert-rose discs, Lusail Katara Towers paired sweeping crescents. Qatar flag: WHITE at hoist, deep MAROON on fly, separated by NINE white triangular serrations pointing into maroon. Foods: chicken machboos, harees porridge, luqaimat with syrup.",
+    "countryId": "qatar"
+  },
+  {
+    "id": "kuwait",
+    "name": "Kuwait",
+    "type": "countries",
+    "image": "kuwait/kuwait.jpg",
+    "aspectRatio": "3:2",
+    "description": "Kuwait Towers three slender towers with distinctive spherical forms, Grand Mosque, Liberation Tower and historic dhow waterfront. Kuwaiti flag: three equal horizontal GREEN, WHITE, RED bands top to bottom; BLACK trapezoid at hoist. Foods: machboos chicken and rice, mutabbaq samak fish with rice, sliced golden gers ogaily cake.",
+    "countryId": "kuwait"
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "type": "countries",
+    "image": "turkey/turkey.jpg",
+    "aspectRatio": "3:2",
+    "description": "Istanbul Hagia Sophia, Blue Mosque domes and minarets, Galata Tower, Ankara Anitkabir monumental colonnade in distant national panorama. Turkish flag: RED field with WHITE crescent opening toward the fly and a WHITE five-point star immediately to its right. Foods: grilled kebab platter, simit sesame bread ring, baklava.",
+    "countryId": "turkey"
+  },
+  {
+    "id": "vietnam",
+    "name": "Vietnam",
+    "type": "countries",
+    "image": "vietnam/vietnam.jpg",
+    "aspectRatio": "3:2",
+    "description": "Hanoi Hoan Kiem Lake Turtle Tower and red Huc Bridge, Ho Chi Minh City Central Post Office facade, Ha Long Bay limestone karsts and Hue imperial architecture in distance. Vietnamese flag: RED rectangular field with one centered large YELLOW five-point star. Foods: pho noodle soup, banh mi baguette sandwich, fresh goi cuon spring rolls.",
+    "countryId": "vietnam"
+  },
+  {
+    "id": "south-korea",
+    "name": "South Korea",
+    "type": "countries",
+    "image": "south-korea/south-korea.jpg",
+    "aspectRatio": "3:2",
+    "description": "Seoul Gyeongbokgung Palace and N Seoul Tower, Busan Haeundae coastal skyline and Gwangan Bridge. South Korean flag accurately: WHITE field, centered circular taegeuk with RED upper lobe and BLUE lower lobe, FOUR black trigrams around it: three solid bars top-left; three broken bars bottom-right; broken-solid-broken top-right; solid-broken-solid bottom-left. Foods: bibimbap, kimchi in small bowl, tteokbokki.",
+    "countryId": "south-korea"
+  },
+  {
+    "id": "greece",
+    "name": "Greece",
+    "type": "countries",
+    "image": "greece/greece.jpg",
+    "aspectRatio": "3:2",
+    "description": "Athens Acropolis with Parthenon, Santorini whitewashed buildings and blue domes, Thessaloniki White Tower beside Aegean waterfront. Greek flag: NINE alternating BLUE and WHITE horizontal stripes, blue first and last; BLUE upper-hoist canton with WHITE upright cross. Foods: souvlaki skewers, Greek salad with feta, baklava.",
+    "countryId": "greece"
+  },
+  {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "type": "countries",
+    "image": "switzerland/switzerland.jpg",
+    "aspectRatio": "3:2",
+    "description": "Matterhorn alpine peak, Lucerne Chapel Bridge and water tower, Bern Zytglogge clocktower, Geneva Jet d'Eau. Swiss flag: SQUARE RED flag with a centered bold WHITE upright equilateral cross, NOT rectangular. Foods: cheese fondue pot with bread cubes, rosti potato cake, Swiss chocolate pieces.",
+    "countryId": "switzerland"
+  },
+  {
     "id": "brussels",
     "name": "Brussels",
     "type": "cities",
@@ -475,5 +583,221 @@
     "aspectRatio": "3:2",
     "description": "Charles Bridge with Old Town Bridge Tower spanning Vltava, Prague Castle and Saint Vitus Cathedral on hill, Old Town Hall's Astronomical Clock tower in art-directed midground. Bronze Saint John of Nepomuk statue with halo of five stars on Charles Bridge balustrade as foreground sculptural landmark. Historic red tile roofs, gothic stone and warm baroque facades.",
     "countryId": "czech-republic"
+  },
+  {
+    "id": "sydney",
+    "name": "Sydney",
+    "type": "cities",
+    "image": "australia/sydney/sydney.jpg",
+    "aspectRatio": "3:2",
+    "description": "Sydney Opera House's white shell roofs and Harbour Bridge across blue harbour, historic Rocks sandstone buildings. Bronze Queen Victoria statue outside Queen Victoria Building as smaller foreground sculptural landmark. Waterfront paving, subtropical greenery.",
+    "countryId": "australia"
+  },
+  {
+    "id": "melbourne",
+    "name": "Melbourne",
+    "type": "cities",
+    "image": "australia/melbourne/melbourne.jpg",
+    "aspectRatio": "3:2",
+    "description": "Flinders Street Station yellow facade and green dome, Federation Square angular buildings, Royal Exhibition Building dome. Queen Victoria Memorial statue as a secondary sculptural landmark, tram tracks subtly embedded in street, no painted text.",
+    "countryId": "australia"
+  },
+  {
+    "id": "cape-town",
+    "name": "Cape Town",
+    "type": "cities",
+    "image": "south-africa/cape-town/cape-town.jpg",
+    "aspectRatio": "3:2",
+    "description": "Table Mountain flat summit dominant behind V&A Waterfront clocktower and colourful harbour buildings, Cape Town City Hall. Small bronze Nelson Mandela statue in raised-arm pose as secondary foreground landmark inspired by the City Hall statue; Atlantic waterfront.",
+    "countryId": "south-africa"
+  },
+  {
+    "id": "johannesburg",
+    "name": "Johannesburg",
+    "type": "cities",
+    "image": "south-africa/johannesburg/johannesburg.jpg",
+    "aspectRatio": "3:2",
+    "description": "Johannesburg Carlton Centre and cylindrical Ponte City skyline, ornate historic city architecture, Nelson Mandela Square with recognizable smiling bronze Mandela walking statue as secondary foreground landmark. Urban plaza, African planting, no invented European canal.",
+    "countryId": "south-africa"
+  },
+  {
+    "id": "auckland",
+    "name": "Auckland",
+    "type": "cities",
+    "image": "new-zealand/auckland/auckland.jpg",
+    "aspectRatio": "3:2",
+    "description": "Auckland Sky Tower above Viaduct Harbour, historic Ferry Building and distant green North Shore coastline. Maori-style carved architectural details on a modest waterfront feature for sculptural interest, respectful and secondary, not an invented historic statue.",
+    "countryId": "new-zealand"
+  },
+  {
+    "id": "wellington",
+    "name": "Wellington",
+    "type": "cities",
+    "image": "new-zealand/wellington/wellington.jpg",
+    "aspectRatio": "3:2",
+    "description": "Wellington Beehive parliament and neoclassical Parliament House, waterfront Te Papa museum, red Wellington cable car on distant green hill. Solace in the Wind iron figure leaning forward with arms back at harbour edge, small nonsexual classical public sculpture.",
+    "countryId": "new-zealand"
+  },
+  {
+    "id": "toronto",
+    "name": "Toronto",
+    "type": "cities",
+    "image": "canada/toronto/toronto.jpg",
+    "aspectRatio": "3:2",
+    "description": "CN Tower and Rogers Centre dome across Toronto harbour, historic St Lawrence Market facade, Nathan Phillips Square curved city hall towers. Henry Moore's Three Way Piece No.2 The Archer abstract bronze sculpture as smaller foreground landmark. No Toronto lettering.",
+    "countryId": "canada"
+  },
+  {
+    "id": "vancouver",
+    "name": "Vancouver",
+    "type": "cities",
+    "image": "canada/vancouver/vancouver.jpg",
+    "aspectRatio": "3:2",
+    "description": "Canada Place white sails and Vancouver Harbour Centre saucer tower beneath North Shore mountains, Stanley Park waterfront. The bronze Girl in a Wetsuit sculpture sitting on a waterfront boulder as smaller secondary landmark. Pacific coastal greenery.",
+    "countryId": "canada"
+  },
+  {
+    "id": "dubai",
+    "name": "Dubai",
+    "type": "cities",
+    "image": "united-arab-emirates/dubai/dubai.jpg",
+    "aspectRatio": "3:2",
+    "description": "Burj Khalifa slender stepped skyline focus, Dubai Frame and sail-shaped Burj Al Arab in distance, Museum of the Future's toroidal form with abstract architectural calligraphic perforations rather than legible text. A pair of small bronze wing forms inspired by Wings of Mexico as secondary foreground public sculpture.",
+    "countryId": "united-arab-emirates"
+  },
+  {
+    "id": "abu-dhabi",
+    "name": "Abu Dhabi",
+    "type": "cities",
+    "image": "united-arab-emirates/abu-dhabi/abu-dhabi.jpg",
+    "aspectRatio": "3:2",
+    "description": "Sheikh Zayed Grand Mosque white domes and minarets, Louvre Abu Dhabi perforated dome, Qasr Al Watan palace, Etihad Towers distant. Sculptural white marble floral columns and ornamental courtyard fountains provide local sculptural detail; no invented human monuments.",
+    "countryId": "united-arab-emirates"
+  },
+  {
+    "id": "doha",
+    "name": "Doha",
+    "type": "cities",
+    "image": "qatar/doha/doha.jpg",
+    "aspectRatio": "3:2",
+    "description": "Museum of Islamic Art's geometric stacked stone facade, West Bay towers and curved Corniche, National Museum desert-rose discs. Recognizable Pearl Monument open oyster shell holding a pearl as secondary foreground sculptural landmark, dhow harbour.",
+    "countryId": "qatar"
+  },
+  {
+    "id": "lusail",
+    "name": "Lusail",
+    "type": "cities",
+    "image": "qatar/lusail/lusail.jpg",
+    "aspectRatio": "3:2",
+    "description": "Katara Towers paired crescent-shaped hotel towers above Lusail Marina, four Lusail Plaza towers and gold lattice Lusail Stadium in midground. Sweeping sculptural crescent architecture provides sculptural interest; no invented figurative statue. Contemporary waterfront plazas.",
+    "countryId": "qatar"
+  },
+  {
+    "id": "kuwait-city",
+    "name": "Kuwait City",
+    "type": "cities",
+    "image": "kuwait/kuwait-city/kuwait-city.jpg",
+    "aspectRatio": "3:2",
+    "description": "Kuwait Towers with blue-green spherical cladding, Liberation Tower, Grand Mosque's dome and minaret, dhow harbour. Large traditional dhow with carved timber prow as a secondary sculptural waterfront object, no invented human statue.",
+    "countryId": "kuwait"
+  },
+  {
+    "id": "salmiya",
+    "name": "Salmiya",
+    "type": "cities",
+    "image": "kuwait/salmiya/salmiya.jpg",
+    "aspectRatio": "3:2",
+    "description": "Scientific Center aquarium's warm geometric architecture with sail-like canopy, Marina Crescent curved waterfront, Salmiya coastal towers and traditional dhow in museum harbour. Sculptural sail canopy and dhow's carved prow as local design details; no invented statues.",
+    "countryId": "kuwait"
+  },
+  {
+    "id": "istanbul",
+    "name": "Istanbul",
+    "type": "cities",
+    "image": "turkey/istanbul/istanbul.jpg",
+    "aspectRatio": "3:2",
+    "description": "Hagia Sophia massive central dome and minarets, Blue Mosque cascading domes, Galata Tower across Bosphorus-inspired vista. Historic Hippodrome Obelisk of Theodosius on carved relief pedestal as foreground sculptural monument. Authentic Ottoman waterfront and stonework.",
+    "countryId": "turkey"
+  },
+  {
+    "id": "ankara",
+    "name": "Ankara",
+    "type": "cities",
+    "image": "turkey/ankara/ankara.jpg",
+    "aspectRatio": "3:2",
+    "description": "Anitkabir monumental colonnade, Ankara Castle hill walls, Kocatepe Mosque white domes and four minarets. Ataturk equestrian Victory Monument from Ulus as secondary foreground bronze sculpture; Turkish urban plaza.",
+    "countryId": "turkey"
+  },
+  {
+    "id": "hanoi",
+    "name": "Hanoi",
+    "type": "cities",
+    "image": "vietnam/hanoi/hanoi.jpg",
+    "aspectRatio": "3:2",
+    "description": "Hoan Kiem Lake Turtle Tower, red Huc Bridge leading to Ngoc Son Temple, Hanoi Opera House classical facade in distant city. Ly Thai To bronze standing statue on pedestal as secondary foreground landmark, leafy lake promenade.",
+    "countryId": "vietnam"
+  },
+  {
+    "id": "ho-chi-minh-city",
+    "name": "Ho Chi Minh City",
+    "type": "cities",
+    "image": "vietnam/ho-chi-minh-city/ho-chi-minh-city.jpg",
+    "aspectRatio": "3:2",
+    "description": "Historic City Hall ornate cream facade, Central Post Office arched entrance, Bitexco Financial Tower with helipad and Landmark 81 far skyline. Ho Chi Minh standing bronze statue in front of city hall as secondary landmark, lush boulevard.",
+    "countryId": "vietnam"
+  },
+  {
+    "id": "seoul",
+    "name": "Seoul",
+    "type": "cities",
+    "image": "south-korea/seoul/seoul.jpg",
+    "aspectRatio": "3:2",
+    "description": "Gyeongbokgung Palace and Gwanghwamun gate with traditional layered roofs, N Seoul Tower on mountain, modern skyline. Seated bronze King Sejong statue with book as secondary foreground sculptural landmark, Korean stone plaza.",
+    "countryId": "south-korea"
+  },
+  {
+    "id": "busan",
+    "name": "Busan",
+    "type": "cities",
+    "image": "south-korea/busan/busan.jpg",
+    "aspectRatio": "3:2",
+    "description": "Gwangan Bridge across bay and Haeundae modern skyline, Haedong Yonggungsa seaside temple's tiered rooflines. Stone Haesu Gwaneum Daebul standing Buddhist statue as secondary coastal temple sculptural landmark. Rugged sea rocks and Korean pines.",
+    "countryId": "south-korea"
+  },
+  {
+    "id": "athens",
+    "name": "Athens",
+    "type": "cities",
+    "image": "greece/athens/athens.jpg",
+    "aspectRatio": "3:2",
+    "description": "Parthenon on the Acropolis, Erechtheion porch with distinctive Caryatid sculpted women supporting roof, Temple of Olympian Zeus columns. Caryatids provide authentic local sculptural detail; no invented Athena statue. Warm pale stone, olive trees.",
+    "countryId": "greece"
+  },
+  {
+    "id": "thessaloniki",
+    "name": "Thessaloniki",
+    "type": "cities",
+    "image": "greece/thessaloniki/thessaloniki.jpg",
+    "aspectRatio": "3:2",
+    "description": "White Tower cylindrical waterfront fortress, Rotunda's domed brick form, Aristotelous Square arcaded facades. Bronze Alexander the Great equestrian monument near seafront as secondary foreground landmark. Aegean promenade.",
+    "countryId": "greece"
+  },
+  {
+    "id": "zurich",
+    "name": "Zurich",
+    "type": "cities",
+    "image": "switzerland/zurich/zurich.jpg",
+    "aspectRatio": "3:2",
+    "description": "Grossmunster twin towers above Limmat, Fraumunster slender spire and colourful old-town waterfront, Zurich lake and distant Alps. Alfred Escher bronze statue on ornate fountain pedestal as secondary foreground sculptural landmark.",
+    "countryId": "switzerland"
+  },
+  {
+    "id": "geneva",
+    "name": "Geneva",
+    "type": "cities",
+    "image": "switzerland/geneva/geneva.jpg",
+    "aspectRatio": "3:2",
+    "description": "Jet d'Eau tall water jet in Lake Geneva, Saint Pierre Cathedral green spire and classical facade, lakeside architecture. Broken Chair monumental wooden three-legged chair sculpture as secondary foreground public art landmark. Swiss lake promenade and Alps.",
+    "countryId": "switzerland"
   }
 ]

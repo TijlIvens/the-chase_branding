@@ -740,5 +740,511 @@
       "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
       "base-images/PHOTO-2026-02-18-06-52-19.jpg"
     ]
+  },
+  {
+    "type": "countries",
+    "id": "australia",
+    "name": "Australia",
+    "file": "assets/covers/australia/australia.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: Australia. Sydney Opera House and Sydney Harbour Bridge, Melbourne Royal Exhibition Building, Uluru as a distant red sandstone monolith. Australian flag: deep blue field, Union Jack upper hoist, large white seven-point Commonwealth Star below it, five white Southern Cross stars on fly (four seven-point stars and one smaller five-point star). Foods: Australian meat pie, chocolate-coconut lamingtons, grilled prawns. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-66871994-13f0-4ce5-9e45-7dc34ecd02d0.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "south-africa",
+    "name": "South Africa",
+    "file": "assets/covers/south-africa/south-africa.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: South Africa. Table Mountain and Cape Town waterfront, Pretoria Union Buildings, Johannesburg skyline. South African flag accurately showing red upper band, blue lower band, central GREEN horizontal Y with WHITE borders separating green from red and blue, BLACK triangle at hoist bordered in GOLD. Foods: bobotie in a small baking dish, grilled boerewors, malva pudding. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-34254a52-7c18-4c11-9f72-addb4ba50964.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "new-zealand",
+    "name": "New Zealand",
+    "file": "assets/covers/new-zealand/new-zealand.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: New Zealand. Auckland Sky Tower and harbour, Wellington Beehive parliament, Mitre Peak rising above Milford Sound in a distant national panorama. New Zealand flag: blue field, Union Jack upper hoist, FOUR RED five-point Southern Cross stars edged WHITE on the fly; no Commonwealth Star. Foods: plated hangi-style meat with kumara vegetables, green-lipped mussels, small pavlova with kiwifruit. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-ff96127c-ee91-4ae2-94c1-0ca4e137fe33.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "canada",
+    "name": "Canada",
+    "file": "assets/covers/canada/canada.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: Canada. Toronto CN Tower, Quebec City's Chateau Frontenac, Vancouver Canada Place white sails with Rocky Mountain scenery behind. Canadian flag: RED vertical side panels, WHITE central panel twice the width of each red panel, centered RED eleven-point maple leaf. Foods: poutine, butter tarts, pancakes with maple syrup. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-55eefe64-d39d-4bf7-8dd5-7a90eac837a1.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "united-arab-emirates",
+    "name": "United Arab Emirates",
+    "file": "assets/covers/united-arab-emirates/united-arab-emirates.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: United Arab Emirates. Dubai Burj Khalifa and sail-shaped Burj Al Arab, Abu Dhabi Sheikh Zayed Grand Mosque and Qasr Al Watan palace. UAE flag: RED vertical hoist band, remaining field has equal GREEN, WHITE, BLACK horizontal bands top to bottom. Foods: machboos rice with chicken, luqaimat dumplings with date syrup, dates beside small Arabic coffee cups. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-f1788423-a14d-4831-8958-09a0b277b22b.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "qatar",
+    "name": "Qatar",
+    "file": "assets/covers/qatar/qatar.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: Qatar. Doha Museum of Islamic Art and West Bay skyline, National Museum of Qatar interlocking desert-rose discs, Lusail Katara Towers paired sweeping crescents. Qatar flag: WHITE at hoist, deep MAROON on fly, separated by NINE white triangular serrations pointing into maroon. Foods: chicken machboos, harees porridge, luqaimat with syrup. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-d1540582-8f80-489c-a6a5-0f4713d38188.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "kuwait",
+    "name": "Kuwait",
+    "file": "assets/covers/kuwait/kuwait.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: Kuwait. Kuwait Towers three slender towers with distinctive spherical forms, Grand Mosque, Liberation Tower and historic dhow waterfront. Kuwaiti flag: three equal horizontal GREEN, WHITE, RED bands top to bottom; BLACK trapezoid at hoist. Foods: machboos chicken and rice, mutabbaq samak fish with rice, sliced golden gers ogaily cake. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-dbfc97d6-8cf1-4c17-a1a3-81c4b8707401.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "turkey",
+    "name": "Turkey",
+    "file": "assets/covers/turkey/turkey.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: Turkey. Istanbul Hagia Sophia, Blue Mosque domes and minarets, Galata Tower, Ankara Anitkabir monumental colonnade in distant national panorama. Turkish flag: RED field with WHITE crescent opening toward the fly and a WHITE five-point star immediately to its right. Foods: grilled kebab platter, simit sesame bread ring, baklava. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-0089b572-0687-4b57-b4ab-555946a7d0f9.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "vietnam",
+    "name": "Vietnam",
+    "file": "assets/covers/vietnam/vietnam.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: Vietnam. Hanoi Hoan Kiem Lake Turtle Tower and red Huc Bridge, Ho Chi Minh City Central Post Office facade, Ha Long Bay limestone karsts and Hue imperial architecture in distance. Vietnamese flag: RED rectangular field with one centered large YELLOW five-point star. Foods: pho noodle soup, banh mi baguette sandwich, fresh goi cuon spring rolls. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-fc9d7d89-f46c-43fe-a4e8-ae284eae2fce.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "south-korea",
+    "name": "South Korea",
+    "file": "assets/covers/south-korea/south-korea.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: South Korea. Seoul Gyeongbokgung Palace and N Seoul Tower, Busan Haeundae coastal skyline and Gwangan Bridge. South Korean flag accurately: WHITE field, centered circular taegeuk with RED upper lobe and BLUE lower lobe, FOUR black trigrams around it: three solid bars top-left; three broken bars bottom-right; broken-solid-broken top-right; solid-broken-solid bottom-left. Foods: bibimbap, kimchi in small bowl, tteokbokki. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-76326e66-fc77-4e4c-a949-365c63703e0a.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "greece",
+    "name": "Greece",
+    "file": "assets/covers/greece/greece.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: Greece. Athens Acropolis with Parthenon, Santorini whitewashed buildings and blue domes, Thessaloniki White Tower beside Aegean waterfront. Greek flag: NINE alternating BLUE and WHITE horizontal stripes, blue first and last; BLUE upper-hoist canton with WHITE upright cross. Foods: souvlaki skewers, Greek salad with feta, baklava. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-f44d2715-dda3-4fa7-828b-47256281f8d8.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "countries",
+    "id": "switzerland",
+    "name": "Switzerland",
+    "file": "assets/covers/switzerland/switzerland.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. COUNTRY DESTINATION: Switzerland. Matterhorn alpine peak, Lucerne Chapel Bridge and water tower, Bern Zytglogge clocktower, Geneva Jet d'Eau. Swiss flag: SQUARE RED flag with a centered bold WHITE upright equilateral cross, NOT rectangular. Foods: cheese fondue pot with bread cubes, rosti potato cake, Swiss chocolate pieces. Country panorama: combine the named national landmarks artistically, NOT actual geographical adjacency. Show the correct flag clearly on a modest left-side flagpole. All THREE named foods must be visible in a small tasteful foreground cafe-table still life. Keep foods secondary but appetizing, natural accurate flag and food colors, no labels. EXPLICIT 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-8bef77c8-ad51-43a7-b1c2-c063a0860048.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/belgium.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "sydney",
+    "name": "Sydney",
+    "file": "assets/covers/australia/sydney/sydney.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Sydney, australia. Sydney Opera House's white shell roofs and Harbour Bridge across blue harbour, historic Rocks sandstone buildings. Bronze Queen Victoria statue outside Queen Victoria Building as smaller foreground sculptural landmark. Waterfront paving, subtropical greenery. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-8778dc91-4e24-41b6-9ae8-f27e65f788f0.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "melbourne",
+    "name": "Melbourne",
+    "file": "assets/covers/australia/melbourne/melbourne.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Melbourne, australia. Flinders Street Station yellow facade and green dome, Federation Square angular buildings, Royal Exhibition Building dome. Queen Victoria Memorial statue as a secondary sculptural landmark, tram tracks subtly embedded in street, no painted text. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-f0515ebf-f2b8-46cb-8630-80bc5f7473f4.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "cape-town",
+    "name": "Cape Town",
+    "file": "assets/covers/south-africa/cape-town/cape-town.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Cape Town, south-africa. Table Mountain flat summit dominant behind V&A Waterfront clocktower and colourful harbour buildings, Cape Town City Hall. Small bronze Nelson Mandela statue in raised-arm pose as secondary foreground landmark inspired by the City Hall statue; Atlantic waterfront. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-4db9b6ba-883a-41f7-9ef6-606b0601ed35.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "johannesburg",
+    "name": "Johannesburg",
+    "file": "assets/covers/south-africa/johannesburg/johannesburg.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Johannesburg, south-africa. Johannesburg Carlton Centre and cylindrical Ponte City skyline, ornate historic city architecture, Nelson Mandela Square with recognizable smiling bronze Mandela walking statue as secondary foreground landmark. Urban plaza, African planting, no invented European canal. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-92632550-f05a-4c68-bbfd-0573c57b4316.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "auckland",
+    "name": "Auckland",
+    "file": "assets/covers/new-zealand/auckland/auckland.jpg",
+    "prompt": "Precise correction to this Auckland cover. REMOVE ONLY the large steel arch bridge and its stone pylons at the upper-right waterfront: it incorrectly resembles Sydney Harbour Bridge. In that exact region continue the existing open harbour, low distant green North Shore hills and blue-hour sky naturally, with subtle coastal lights. Do not add any replacement bridge. Preserve everything else unchanged: Sky Tower, Ferry Building, Maori carved gateway, boats, composition, painted style, colors, Aero, beacon, foreground and exact 3:2 1536x1024 size. No text.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-dd14ac67-e8c8-4337-98f6-2df78e9e61cd.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/new-zealand/auckland/auckland.jpg"
+    ],
+    "priorGeneration": {
+      "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Auckland, new-zealand. Auckland Sky Tower above Viaduct Harbour, Auckland Harbour Bridge and historic Ferry Building. Maori-style carved architectural details on a modest waterfront feature for sculptural interest, respectful and secondary, not an invented historic statue. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+      "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-1622eb5d-67c8-4b62-9c61-86c168541c45.png"
+    }
+  },
+  {
+    "type": "cities",
+    "id": "wellington",
+    "name": "Wellington",
+    "file": "assets/covers/new-zealand/wellington/wellington.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Wellington, new-zealand. Wellington Beehive parliament and neoclassical Parliament House, waterfront Te Papa museum, red Wellington cable car on distant green hill. Solace in the Wind iron figure leaning forward with arms back at harbour edge, small nonsexual classical public sculpture. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-2add297c-e0b0-40bb-8837-3b5646e6e0f9.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "toronto",
+    "name": "Toronto",
+    "file": "assets/covers/canada/toronto/toronto.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Toronto, canada. CN Tower and Rogers Centre dome across Toronto harbour, historic St Lawrence Market facade, Nathan Phillips Square curved city hall towers. Henry Moore's Three Way Piece No.2 The Archer abstract bronze sculpture as smaller foreground landmark. No Toronto lettering. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-55f6d836-0a2f-4f5a-869c-dc4b97f4999f.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "vancouver",
+    "name": "Vancouver",
+    "file": "assets/covers/canada/vancouver/vancouver.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Vancouver, canada. Canada Place white sails and Vancouver Harbour Centre saucer tower beneath North Shore mountains, Stanley Park waterfront. The bronze Girl in a Wetsuit sculpture sitting on a waterfront boulder as smaller secondary landmark. Pacific coastal greenery. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-9a2e8f7d-56a5-4644-ae24-0fe7605c466c.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "dubai",
+    "name": "Dubai",
+    "file": "assets/covers/united-arab-emirates/dubai/dubai.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Dubai, united-arab-emirates. Burj Khalifa slender stepped skyline focus, Dubai Frame and sail-shaped Burj Al Arab in distance, Museum of the Future's toroidal form with abstract architectural calligraphic perforations rather than legible text. A pair of small bronze wing forms inspired by Wings of Mexico as secondary foreground public sculpture. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-80b31635-430b-42d6-b51c-8e544f7b5a38.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "abu-dhabi",
+    "name": "Abu Dhabi",
+    "file": "assets/covers/united-arab-emirates/abu-dhabi/abu-dhabi.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Abu Dhabi, united-arab-emirates. Sheikh Zayed Grand Mosque white domes and minarets, Louvre Abu Dhabi perforated dome, Qasr Al Watan palace, Etihad Towers distant. Sculptural white marble floral columns and ornamental courtyard fountains provide local sculptural detail; no invented human monuments. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-720db07f-03c0-4f31-8156-e76c544e68fa.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "doha",
+    "name": "Doha",
+    "file": "assets/covers/qatar/doha/doha.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Doha, qatar. Museum of Islamic Art's geometric stacked stone facade, West Bay towers and curved Corniche, National Museum desert-rose discs. Recognizable Pearl Monument open oyster shell holding a pearl as secondary foreground sculptural landmark, dhow harbour. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-d829e0fb-854f-48dd-a0a6-26887122bddf.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "lusail",
+    "name": "Lusail",
+    "file": "assets/covers/qatar/lusail/lusail.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Lusail, qatar. Katara Towers paired crescent-shaped hotel towers above Lusail Marina, four Lusail Plaza towers and gold lattice Lusail Stadium in midground. Sweeping sculptural crescent architecture provides sculptural interest; no invented figurative statue. Contemporary waterfront plazas. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-3d2b5d03-3d7a-40a8-bd53-62fb9b33a4d1.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "kuwait-city",
+    "name": "Kuwait City",
+    "file": "assets/covers/kuwait/kuwait-city/kuwait-city.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Kuwait City, kuwait. Kuwait Towers with blue-green spherical cladding, Liberation Tower, Grand Mosque's dome and minaret, dhow harbour. Large traditional dhow with carved timber prow as a secondary sculptural waterfront object, no invented human statue. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-c409dd65-20d6-49a3-ad93-702c6cadc2ca.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "salmiya",
+    "name": "Salmiya",
+    "file": "assets/covers/kuwait/salmiya/salmiya.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Salmiya, kuwait. Scientific Center aquarium's warm geometric architecture with sail-like canopy, Marina Crescent curved waterfront, Salmiya coastal towers and traditional dhow in museum harbour. Sculptural sail canopy and dhow's carved prow as local design details; no invented statues. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-32aee239-3952-469f-90cf-3e7e0d033586.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "istanbul",
+    "name": "Istanbul",
+    "file": "assets/covers/turkey/istanbul/istanbul.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Istanbul, turkey. Hagia Sophia massive central dome and minarets, Blue Mosque cascading domes, Galata Tower across Bosphorus-inspired vista. Historic Hippodrome Obelisk of Theodosius on carved relief pedestal as foreground sculptural monument. Authentic Ottoman waterfront and stonework. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-3019e8b4-1ceb-4731-820c-583ce3e7ec25.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "ankara",
+    "name": "Ankara",
+    "file": "assets/covers/turkey/ankara/ankara.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Ankara, turkey. Anitkabir monumental colonnade, Ankara Castle hill walls, Kocatepe Mosque white domes and four minarets. Ataturk equestrian Victory Monument from Ulus as secondary foreground bronze sculpture; Turkish urban plaza. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-abb711aa-3a79-4771-8f77-68dfa51a9ab6.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "hanoi",
+    "name": "Hanoi",
+    "file": "assets/covers/vietnam/hanoi/hanoi.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Hanoi, vietnam. Hoan Kiem Lake Turtle Tower, red Huc Bridge leading to Ngoc Son Temple, Hanoi Opera House classical facade in distant city. Ly Thai To bronze standing statue on pedestal as secondary foreground landmark, leafy lake promenade. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-9701dcb6-ffc4-4bbc-b8ed-9e0e2d31ff08.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "ho-chi-minh-city",
+    "name": "Ho Chi Minh City",
+    "file": "assets/covers/vietnam/ho-chi-minh-city/ho-chi-minh-city.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Ho Chi Minh City, vietnam. Historic City Hall ornate cream facade, Central Post Office arched entrance, Bitexco Financial Tower with helipad and Landmark 81 far skyline. Ho Chi Minh standing bronze statue in front of city hall as secondary landmark, lush boulevard. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-fe77a6eb-96ab-4519-913f-83bc205fb606.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "seoul",
+    "name": "Seoul",
+    "file": "assets/covers/south-korea/seoul/seoul.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Seoul, south-korea. Gyeongbokgung Palace and Gwanghwamun gate with traditional layered roofs, N Seoul Tower on mountain, modern skyline. Seated bronze King Sejong statue with book as secondary foreground sculptural landmark, Korean stone plaza. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-61b85916-6da8-4b63-934e-98de378add3f.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "busan",
+    "name": "Busan",
+    "file": "assets/covers/south-korea/busan/busan.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Busan, south-korea. Gwangan Bridge across bay and Haeundae modern skyline, Haedong Yonggungsa seaside temple's tiered rooflines. Stone Haesu Gwaneum Daebul standing Buddhist statue as secondary coastal temple sculptural landmark. Rugged sea rocks and Korean pines. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-0cd42b4f-acbc-403c-bd62-a2da90a832dc.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "athens",
+    "name": "Athens",
+    "file": "assets/covers/greece/athens/athens.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Athens, greece. Parthenon on the Acropolis, Erechtheion porch with distinctive Caryatid sculpted women supporting roof, Temple of Olympian Zeus columns. Caryatids provide authentic local sculptural detail; no invented Athena statue. Warm pale stone, olive trees. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-1b63caf9-b054-48b1-a6f6-5f1a17765d16.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "thessaloniki",
+    "name": "Thessaloniki",
+    "file": "assets/covers/greece/thessaloniki/thessaloniki.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Thessaloniki, greece. White Tower cylindrical waterfront fortress, Rotunda's domed brick form, Aristotelous Square arcaded facades. Bronze Alexander the Great equestrian monument near seafront as secondary foreground landmark. Aegean promenade. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-6dd9d6c4-6391-4cdc-a6d3-1a573e44a79b.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "zurich",
+    "name": "Zurich",
+    "file": "assets/covers/switzerland/zurich/zurich.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Zurich, switzerland. Grossmunster twin towers above Limmat, Fraumunster slender spire and colourful old-town waterfront, Zurich lake and distant Alps. Alfred Escher bronze statue on ornate fountain pedestal as secondary foreground sculptural landmark. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-32ed152e-4861-431d-99b3-64a9adeb6536.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
+  },
+  {
+    "type": "cities",
+    "id": "geneva",
+    "name": "Geneva",
+    "file": "assets/covers/switzerland/geneva/geneva.jpg",
+    "prompt": "Use case: illustration-story. Deliver ONE finished full-bleed app overview COVER, landscape 3:2 aspect ratio, 1536x1024. Input image 1 is the approved destination cover for collection style, grading, composition, character design and Aero scale; image 2 is original project PAINTED drawing style; image 3 supplies Aero's identity. They are references, not scenes to copy. Match the existing cover collection exactly in detailed semi-realistic painted adventure-game style: crisp recognizable architectural drawing, soft painted shading, dimensional stone and foliage, atmospheric perspective, blue-hour sky, gently golden-lit buildings, deep navy shadows, cool cyan magic and a little violet distance. Preserve distinctive LOCAL architecture; landmark vista dominates about 75% of attention. Harmonize named local subjects into a single art-directed vista, not collage panels; do not copy Antwerp buildings into this location. Keep a small friendly Aero at lower right, no more than 15% of image area: teal beaked head, slate blue scaled serpent body, lavender belly, exactly TWO swept-back GOLDEN horns, purple eyes, cyan rune lines, smiling closed mouth, no wings, no limbs. Next to Aero one small faceted BLUE Diamond Beacon hovering above a thin glowing CYAN ring. Same Aero scale and identity as reference 1, magic secondary to landmarks. Quiet darker lower-left paving where possible for app-rendered title. Full-bleed scene, no border, no badge, no flat vector icons, no photorealism, no text or logos, no watermarks, no giant people, no sci-fi replacement of historic architecture. CITY DESTINATION: Geneva, switzerland. Jet d'Eau tall water jet in Lake Geneva, Saint Pierre Cathedral green spire and classical facade, lakeside architecture. Broken Chair monumental wooden three-legged chair sculpture as secondary foreground public art landmark. Swiss lake promenade and Alps. Show only this city's local landmarks in a harmonious art-directed vista. No country flag, no food table. Sculpture is secondary to buildings; do not invent a statue when architectural sculpture is specified. Match collection 3:2 landscape 1536x1024.",
+    "source": "/Users/sumikshah/.codex/generated_images/01a1c10a-b524-77f3-b110-d02763140969/exec-56603318-41ed-400c-ae18-7111bb922bb6.png",
+    "method": "built-in image_gen",
+    "references": [
+      "assets/covers/belgium/antwerp/antwerp.jpg",
+      "base-images/PHOTO-2026-02-18-06-49-01 4.jpg",
+      "base-images/PHOTO-2026-02-18-06-52-19.jpg"
+    ]
   }
 ]

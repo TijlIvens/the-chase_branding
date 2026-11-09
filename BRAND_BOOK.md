@@ -348,6 +348,10 @@ Cursor, Gemini CLI, Copilot…) and includes:
 - `check_svg.py`: validate an asset against the rules in this book
 - `gallery.py`: preview every asset on dark and light
 
+### Creating more destination covers
+
+Use [`chase-cover-images`](.agents/skills/chase-cover-images/SKILL.md) for new country or city cover illustrations in the existing painted style. It includes image-reference selection, a reusable generation prompt, flag and food rules for countries, local landmark sculptures for cities, and the steps to register new artwork in the overview gallery. Invoke it with `$chase-cover-images`.
+
 ### Relation to the marketing site
 
 The website (`../the-chase_web-page`) currently uses a different "night-city glass" palette

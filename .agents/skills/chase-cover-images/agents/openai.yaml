@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Chase Cover Images"
+  short_description: "Create matching country and city cover artwork"
+  default_prompt: "Use $chase-cover-images to create a 3:2 cover for a new country or city in the established The Chase illustration style."

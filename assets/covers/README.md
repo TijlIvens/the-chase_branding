@@ -30,3 +30,7 @@ Rebuild the manifest and gallery after updating an image:
 ```sh
 python3 scripts/build_cover_gallery.py
 ```
+
+Create another cover with `$chase-cover-images`, for example: “Use
+$chase-cover-images to make a country cover for Greece.” The reusable skill lives in
+[`.agents/skills/chase-cover-images/SKILL.md`](../../.agents/skills/chase-cover-images/SKILL.md).

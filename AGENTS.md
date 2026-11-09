@@ -46,7 +46,12 @@ antagonist.** Game rules: `PRODUCT.md`. Story, cast and naming: `BRAND_BOOK.md` 
 Follow the skill at **`.agents/skills/chase-brand-assets/SKILL.md`** — read it before
 drawing anything. (Claude Code also finds it via the `.claude/skills/` link.)
 
-Short version:
+For **painted country and city overview covers**, use
+**`.agents/skills/chase-cover-images/SKILL.md`** and the existing covers as image
+references. Default: 3:2 landscape; country flags and foods; city buildings and
+landmark sculptures. These are full illustrations, separate from small SVG icons.
+
+For SVG assets, the short version is:
 1. Colours only from `tokens/colors.json`.
 2. Start from `.agents/skills/chase-brand-assets/templates/`.
 3. Finish with:

@@ -19,7 +19,9 @@ in the future.
 
 Three modes: free roam (free, self-guided tours), timed routes (some free, some paid;
 fastest time wins) and paid live events. Solo play, account required, no hints, steps
-counted as a stat. Launch: iOS + Android, Belgian and major international cities, in EN, NL,
+counted as a stat, online required. Each game ranks on time (ms); points (paid games
+×1.5) feed a worldwide / country / city main leaderboard and a per-city Hall of Fame.
+Private group games don't count. Launch: iOS + Android, Belgian and major international cities, in EN, NL,
 FR, DE, ES and PT.
 
 **Aero is the player's friendly guide, never a villain. Mr. Chase is the inventor, not an

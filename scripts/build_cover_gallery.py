@@ -10,23 +10,34 @@ COVERS = ROOT / 'assets/covers'
 def main():
     briefs = json.loads((COVERS / 'cover-briefs.json').read_text())
     entries = []
-    sections = []
     for kind in ['countries', 'cities']:
-        cards = []
         for group, slug, label, scene in briefs[kind]:
-            path = COVERS / kind / (slug + '.jpg')
+            country = slug if kind == 'countries' else briefs['cityCountries'][slug]
+            path = COVERS / country / (slug + '.jpg') if kind == 'countries' else COVERS / country / slug / (slug + '.jpg')
             if not path.exists():
                 continue
             relative = path.relative_to(COVERS).as_posix()
             entry = {'id': slug, 'name': label, 'type': kind, 'image': relative,
                      'aspectRatio': '3:2', 'description': scene,
-                     'countryId': slug if kind == 'countries' else briefs['cityCountries'][slug]}
+                     'countryId': country}
             entries.append(entry)
+    sections = []
+    country_labels = {slug: label for _, slug, label, _ in briefs['countries']}
+    for country in dict.fromkeys(entry['countryId'] for entry in entries):
+        country_label = country_labels.get(country, country.replace('-', ' ').title())
+        cards = []
+        for entry in entries:
+            if entry['countryId'] != country:
+                continue
+            relative = entry['image']
+            label = html.escape(entry['name'])
+            scene = html.escape(entry['description'])
+            category = 'Country cover' if entry['type'] == 'countries' else 'City cover'
             cards.append(f'<article><a href="{relative}" download><img src="{relative}" '
-                         f'alt="Illustrated {html.escape(label)} destination cover" loading="lazy"></a>'
-                         f'<div><h3>{html.escape(label)}</h3><p>{html.escape(scene)}</p>'
+                         f'alt="Illustrated {label} destination cover" loading="lazy"></a>'
+                         f'<div><h3>{label}</h3><p>{category} · {scene}</p>'
                          f'<a href="{relative}" download>Download cover</a></div></article>')
-        sections.append(f'<section><h2>{kind.title()}</h2><div class="grid">'+''.join(cards)+'</div></section>')
+        sections.append(f'<section><h2>{html.escape(country_label)}</h2><div class="grid">'+''.join(cards)+'</div></section>')
     (COVERS / 'manifest.json').write_text(json.dumps(entries, indent=2) + '\n')
     page = '''<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>The Chase — destination covers</title>

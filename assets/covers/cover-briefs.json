@@ -91,6 +91,12 @@
       "thailand",
       "Thailand",
       "Bangkok Wat Arun central prang and Grand Palace gilded roofs, Chiang Mai Doi Suthep temple in distant mountain, lush riverfront. Thai flag five HORIZONTAL bands RED, WHITE, BLUE, WHITE, RED; central blue band twice the height of each other band. Foods on small foreground table: pad thai, tom yum soup, mango sticky rice. Secondary food still life, no labels."
+    ],
+    [
+      "countries",
+      "czech-republic",
+      "Czech Republic",
+      "Harmonious national panorama combining Prague Charles Bridge and Prague Castle with Saint Vitus Cathedral, Cesky Krumlov castle tower and red-roof old town, Karlstejn Castle on a distant forested hill. Czech flag on modest left flagpole: WHITE upper half, RED lower half, BLUE triangle at hoist reaching halfway across the flag. Small foreground cafe food arrangement: svickova beef with cream sauce and sliced bread dumplings, round kolace pastries, golden bramboraky potato pancakes. Foods secondary, authentic natural flag/food colors, no labels."
     ]
   ],
   "cities": [
@@ -267,6 +273,60 @@
       "chiang-mai",
       "Chiang Mai",
       "Doi Suthep gilded chedi on a distant green hillside, Wat Chedi Luang brick stupa and old city walls; Three Kings Monument bronze trio as secondary foreground sculptural landmark."
+    ],
+    [
+      "cities",
+      "gent",
+      "Gent",
+      "Ghent's Graslei and Korenlei guildhouses lining the river, the three medieval towers (Saint Nicholas Church, Belfry, Saint Bavo Cathedral) in the skyline, Gravensteen castle. Jacob van Artevelde bronze statue on its pedestal as a smaller foreground landmark. Recognizable Flemish architecture; compose one art-directed riverfront vista."
+    ],
+    [
+      "cities",
+      "los-angeles",
+      "Los Angeles",
+      "Griffith Observatory with its three domes set on a distant sunlit hill, palm-lined Los Angeles downtown skyline, Walt Disney Concert Hall's swooping stainless steel architecture. A compact group of the recognizable Urban Light historic street-lamp sculpture in the foreground as public-art landmark. Southern Californian planting and a handsome plaza; no invented canal, no Hollywood lettering, no readable signage."
+    ],
+    [
+      "cities",
+      "utrecht",
+      "Utrecht",
+      "Utrecht Dom Tower in recognizable tall gothic form, Dom Church, the distinctive Oudegracht canal with low wharf-level cellars and brick bridges, Dutch townhouses. Bronze Jan van Nassau standing statue with document, on pedestal, as secondary foreground landmark. No windmills imported from another city."
+    ],
+    [
+      "cities",
+      "chennai",
+      "Chennai",
+      "Chennai Central railway station's red-and-cream Indo-Saracenic facade and clocktower, Kapaleeshwarar Temple's richly carved colorful gopuram, Marina Beach promenade beside Bay of Bengal. Triumph of Labour bronze group of four workers pushing a rock as secondary foreground sculpture. Warm coastal plants, Indian architecture, no European canal or gothic imported buildings."
+    ],
+    [
+      "cities",
+      "frankfurt",
+      "Frankfurt",
+      "Romerberg stepped-gable half-timbered town hall, Frankfurt Cathedral's red sandstone gothic tower, Main river and Eiserner Steg bridge, recognizable Main Tower and modern banking skyline. Justice Fountain with bronze female Justitia holding scales and sword on a slender column as foreground sculptural landmark."
+    ],
+    [
+      "cities",
+      "dusseldorf",
+      "Düsseldorf",
+      "Rhine embankment, Burgplatz Schlossturm with its distinctive round tower and roof, twisted Gehry buildings in MedienHafen, slender Rheinturm skyline. Bronze equestrian Jan Wellem statue on a stone pedestal as foreground sculptural landmark."
+    ],
+    [
+      "cities",
+      "bordeaux",
+      "Bordeaux",
+      "Place de la Bourse elegant symmetrical classical facades reflected in the shallow Miroir d'eau, Pont de Pierre over Garonne and Saint Andre cathedral towers in distance. Monument aux Girondins fountain with bronze rearing horses and its tall column crowned by Liberty as secondary sculptural landmark. French limestone architecture, no Eiffel Tower."
+    ],
+    [
+      "cities",
+      "naples",
+      "Naples",
+      "Naples waterfront with Castel dell'Ovo, Piazza del Plebiscito's San Francesco di Paola dome and colonnade, Mount Vesuvius across the bay. Fontana del Gigante with its three decorated arches and sculpted figures as secondary foreground landmark. Mediterranean waterfront, warm Neapolitan facades, no Roman Colosseum."
+    ],
+    [
+      "cities",
+      "prague",
+      "Prague",
+      "Charles Bridge with Old Town Bridge Tower spanning Vltava, Prague Castle and Saint Vitus Cathedral on hill, Old Town Hall's Astronomical Clock tower in art-directed midground. Bronze Saint John of Nepomuk statue with halo of five stars on Charles Bridge balustrade as foreground sculptural landmark. Historic red tile roofs, gothic stone and warm baroque facades."
     ]
   ],
   "cityCountries": {
@@ -298,6 +358,15 @@
     "tokyo": "japan",
     "kyoto": "japan",
     "bangkok": "thailand",
-    "chiang-mai": "thailand"
+    "chiang-mai": "thailand",
+    "gent": "belgium",
+    "los-angeles": "usa",
+    "utrecht": "netherlands",
+    "chennai": "india",
+    "frankfurt": "germany",
+    "dusseldorf": "germany",
+    "bordeaux": "france",
+    "naples": "italy",
+    "prague": "czech-republic"
   }
 }

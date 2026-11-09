@@ -21,8 +21,8 @@ current collection and prior scene choices, use `assets/covers/manifest.json` an
 
 Inspect these local images with the image viewer before generating:
 
-1. **Collection style/composition:** `assets/covers/countries/belgium.jpg` for a country,
-   or `assets/covers/cities/antwerp.jpg` for a city. A geographically closer existing
+1. **Collection style/composition:** `assets/covers/belgium/belgium.jpg` for a country,
+   or `assets/covers/belgium/antwerp/antwerp.jpg` for a city. A geographically closer existing
    cover can also guide architecture and scenery.
 2. **Original project drawing style:** `base-images/PHOTO-2026-02-18-06-49-01 4.jpg`.
 3. **Aero identity:** `base-images/PHOTO-2026-02-18-06-52-19.jpg`; use the brand book
@@ -88,8 +88,8 @@ when a visible error matters; do not run paid generations solely to test this sk
 ## Save and register
 
 Save project-bound selected artwork into the checkout, not only the generator's output
-folder. Use lowercase kebab-case names under `assets/covers/countries/<place>.jpg` or
-`assets/covers/cities/<place>.jpg`. Preserve the generated master when useful; high-quality
+folder. Use lowercase kebab-case names under `assets/covers/<country>/<country>.jpg` for country covers or
+`assets/covers/<country>/<city>/<city>.jpg` for city covers. Preserve the generated master when useful; high-quality
 JPEG conversion is suitable for app delivery. Check actual pixel dimensions. Do not stretch
 or silently crop an incorrectly composed image. Use a versioned sibling for unrequested
 replacements, and tell the user its path.
@@ -102,7 +102,7 @@ For an addition to the app cover collection:
 - Append the actual prompt and selected file to `assets/covers/generation-prompts.json`,
   preserving existing history.
 - Run `python3 scripts/build_cover_gallery.py` to rebuild the manifest and gallery.
-  The builder discovers files through the briefs and expects `<slug>.jpg`; for a
+  The builder uses the country folder and city subfolder structure above; for a
   versioned variant, keep it separate or deliberately update the consuming entry.
 
 Follow the repository's validation and commit/push instructions when files change.

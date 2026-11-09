@@ -2,13 +2,15 @@
 
 Full-bleed 3:2 landscape illustrations for the app's country and city overview cards.
 
-- `countries/`: 14 national panoramas with a flag, recognizable local foods, and prominent landmarks.
-- `cities/`: 29 city panoramas featuring local landmark buildings and statues or public sculptures.
+- 15 country folders: `<country>/<country>.jpg` contains the national panorama with its flag, foods, and landmarks.
+- 38 city subfolders: `<country>/<city>/<city>.jpg` contains the city landmark cover.
+- Example: `belgium/belgium.jpg`, `belgium/gent/gent.jpg`, and `czech-republic/prague/prague.jpg`.
 - `index.html`: labeled browser gallery with individual downloads.
 - `manifest.json`: image paths, place labels, and scene descriptions.
 - `cover-briefs.json`: shared art direction, original project references, and every destination brief.
 - `generation-prompts.json`: exact prompts and source-image records for the selected images.
 - `preview-countries.jpg` and `preview-cities.jpg`: contact sheets.
+- `preview-new-covers.jpg`: the latest batch of destination additions.
 
 The painted architectural detail, blue-hour lighting, golden city lights, Aero design,
 and cyan Diamond Beacons follow the existing project illustrations. Architecture is

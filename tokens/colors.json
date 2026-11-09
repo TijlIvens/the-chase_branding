@@ -35,6 +35,10 @@
     "inventor-coat":   { "$value": "#1E1C22", "$type": "color", "$description": "Mr. Chase's double-breasted coat (near-black)." },
     "inventor-leather": { "$value": "#905635", "$type": "color", "$description": "Mr. Chase's belt and tool pouch." },
     "inventor-shirt":  { "$value": "#ACBDC9", "$type": "color", "$description": "Mr. Chase's shirt (pale steel blue)." },
+    "inventor-skin":   { "$value": "#D9A285", "$type": "color", "$description": "Mr. Chase's skin, lit side." },
+    "inventor-skin-shade": { "$value": "#A47B67", "$type": "color", "$description": "Mr. Chase's skin, shadow side." },
+    "inventor-hair":   { "$value": "#2D201C", "$type": "color", "$description": "Mr. Chase's slicked-back dark brown hair." },
+    "inventor-hair-light": { "$value": "#5A4339", "$type": "color", "$description": "Highlight on Mr. Chase's hair." },
     "armor-glow":    { "$value": "#3FA9F5", "$type": "color", "$description": "Light strips on Mr. Chase's armour; his triangle insignia." }
   },
   "city": {

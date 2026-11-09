@@ -40,7 +40,7 @@ beacons, uncover the truth and save their future.
 
 | Character | Role | Look | Signature colours |
 |---|---|---|---|
-| **Mr. Arthur Chase** | Brilliant inventor of the Cerebrium Project, working in the future to fix the time machine. Speaks to the player through Aero | Slicked dark hair, scar over the right brow, black double-breasted coat with brass buttons, chrome pauldrons and blue light strips, triangle insignia on the chest | `inventor-*`, `armor-glow`, `horn-gold`, `chrome` |
+| **Mr. Arthur Chase** | Brilliant inventor of the Cerebrium Project, working in the future to fix the time machine. Speaks to the player through Aero | Slicked dark hair, scar over the right brow, black double-breasted coat with brass buttons, chrome pauldrons and blue light strips, triangle insignia on the chest | `inventor-*`, `armor-glow`, `horn-gold`, `chrome`. Icons: `mr-chase` (UI and game), `chase-insignia` |
 | **Aero** | Mr. Chase's mystical serpent companion and **the player's guide**. Lives in the player's city, gives clues through the telepathic bond, cheers them on. An ally, never a villain | Two golden horns swept back, beaked snout, purple eyes, teal head, slate scales, lavender belly, glowing cyan rune lines | `aero-*`, `horn-gold`, `chase-cyan`, `violet-glow` |
 | **The Player** | Local or tourist exploring their city with a phone and a backpack | Everyday clothes, day-sky light | `day-sky`, `street-rose`, `diamond` family |
 | **Diamond Beacons** | The collectible. Purely in-game: one sits at every question location and is collected when the player answers correctly | Faceted blue diamond floating above a glowing ring | `diamond` family, `chase-cyan` |
@@ -112,6 +112,10 @@ These come straight from the logo. They carry the brand.
 | ![](https://placehold.co/24x24/1E1C22/1E1C22.png) | `inventor-coat` | `#1E1C22` | Mr. Chase's coat |
 | ![](https://placehold.co/24x24/905635/905635.png) | `inventor-leather` | `#905635` | Belt, tool pouch |
 | ![](https://placehold.co/24x24/ACBDC9/ACBDC9.png) | `inventor-shirt` | `#ACBDC9` | Mr. Chase's shirt |
+| ![](https://placehold.co/24x24/D9A285/D9A285.png) | `inventor-skin` | `#D9A285` | Mr. Chase's skin, lit side |
+| ![](https://placehold.co/24x24/A47B67/A47B67.png) | `inventor-skin-shade` | `#A47B67` | Mr. Chase's skin, shadow side |
+| ![](https://placehold.co/24x24/2D201C/2D201C.png) | `inventor-hair` | `#2D201C` | Mr. Chase's slicked-back hair |
+| ![](https://placehold.co/24x24/5A4339/5A4339.png) | `inventor-hair-light` | `#5A4339` | Hair highlight |
 | ![](https://placehold.co/24x24/3FA9F5/3FA9F5.png) | `armor-glow` | `#3FA9F5` | Armour light strips, Mr. Chase's triangle insignia |
 
 ### 2.4 City (daylight scenes)
@@ -243,7 +247,7 @@ Display lettering is always uppercase. Headings in sentence case; never all-caps
 - Angular, faceted shapes (diamonds, hexagons, chamfers) instead of circles where it reads.
   The diamond is the recurring motif (pin, scan, coin, search).
 
-Set (123): `aero alert back badge battery beacon block bookmark calendar camera chat check chevron-down chevron-up close coin compass copy coupon crown delete district download edit energy external-link eye eye-off filter finish fog footsteps forward fullscreen gem gift globe grid heart help hint history home image info inventory invite key knowledge landmark layers leaderboard level-up link list location-off location-pin lock login logout mail map medal menu mic minus moon more mr-chase navigation notification offline pause play player-position plus pop-culture portal profile qr-code quest question radar rank recenter refresh report route scan search send settings share shield shield-check shop smartphone sort sparkle star stop streak sun target team telepathy ticket time-machine time-penalty timeline timer trophy unlock upload user-add verified volume volume-off wallet warning wifi zoom-in zoom-out`
+Set (124): `aero alert back badge battery beacon block bookmark calendar camera chase-insignia chat check chevron-down chevron-up close coin compass copy coupon crown delete district download edit energy external-link eye eye-off filter finish fog footsteps forward fullscreen gem gift globe grid heart help hint history home image info inventory invite key knowledge landmark layers leaderboard level-up link list location-off location-pin lock login logout mail map medal menu mic minus moon more mr-chase navigation notification offline pause play player-position plus pop-culture portal profile qr-code quest question radar rank recenter refresh report route scan search send settings share shield shield-check shop smartphone sort sparkle star stop streak sun target team telepathy ticket time-machine time-penalty timeline timer trophy unlock upload user-add verified volume volume-off wallet warning wifi zoom-in zoom-out`
 
 ### Game icons — [`assets/icons/game/`](assets/icons/game/)
 
@@ -253,7 +257,7 @@ Set (123): `aero alert back badge battery beacon block bookmark calendar camera 
 - Top-left light source; a thin `ice` or `aero-shade` outline separates the
   object from any background.
 
-Set (40): `aero beacon beacon-shard cerebrium chase-insignia chest coin coin-stack compass coupon crown district energy event-pass fog gem gem-legendary gem-rare gift hint hourglass key landmark level-up lock-district medal portal quest-marker question-card radar rune-stone shield-boost speed-boost streak telepathic-link time-penalty timeline treasure-map trophy xp-star`
+Set (41): `aero beacon beacon-shard cerebrium chase-insignia chest coin coin-stack compass coupon crown district energy event-pass fog gem gem-legendary gem-rare gift hint hourglass key landmark level-up lock-district medal mr-chase portal quest-marker question-card radar rune-stone shield-boost speed-boost streak telepathic-link time-penalty timeline treasure-map trophy xp-star`
 
 ### Map markers: [`assets/icons/map/`](assets/icons/map/)
 

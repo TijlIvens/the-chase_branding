@@ -259,6 +259,12 @@ Set (124): `aero alert back badge battery beacon block bookmark calendar camera 
 
 Set (41): `aero beacon beacon-shard cerebrium chase-insignia chest coin coin-stack compass coupon crown district energy event-pass fog gem gem-legendary gem-rare gift hint hourglass key landmark level-up lock-district medal mr-chase portal quest-marker question-card radar rune-stone shield-boost speed-boost streak telepathic-link time-penalty timeline treasure-map trophy xp-star`
 
+### Destination badges — country and city sets
+
+43 additional game icons: `country-belgium city-brussels city-antwerp city-bruges country-netherlands city-amsterdam city-rotterdam country-united-kingdom city-london city-edinburgh country-france city-paris city-lyon country-germany city-berlin city-munich country-italy city-rome city-milan country-spain city-madrid city-barcelona country-portugal city-lisbon city-porto country-india city-new-delhi city-mumbai country-usa city-new-york city-san-francisco country-brazil city-rio-de-janeiro city-sao-paulo country-china city-beijing city-shanghai country-japan city-tokyo city-kyoto country-thailand city-bangkok city-chiang-mai`.
+
+Country badges use hexagonal crests and a representative landmark; city badges use chamfered tiles. Both reuse the original Aero and Diamond Beacon vectors with chrome landmark silhouettes. Source builder: `scripts/build_destination_icons.py`. Browse [the labeled destination gallery](assets/destinations.html); `assets/destinations.json` maps files to places and landmarks.
+
 ### Map markers: [`assets/icons/map/`](assets/icons/map/)
 
 - 64 × 64, one shared angular pin (`M32 62 12 34V16L22 4h20l10 12v18z`) filled `midnight`,

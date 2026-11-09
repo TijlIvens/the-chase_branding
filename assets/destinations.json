@@ -1,0 +1,303 @@
+[
+  {
+    "name": "country-belgium",
+    "label": "Belgium",
+    "kind": "country",
+    "landmark": "Atomium",
+    "city": "brussels"
+  },
+  {
+    "name": "city-brussels",
+    "label": "Brussels",
+    "kind": "city",
+    "landmark": "Atomium",
+    "city": "brussels"
+  },
+  {
+    "name": "city-antwerp",
+    "label": "Antwerp",
+    "kind": "city",
+    "landmark": "Cathedral of Our Lady",
+    "city": "antwerp"
+  },
+  {
+    "name": "city-bruges",
+    "label": "Bruges",
+    "kind": "city",
+    "landmark": "Belfry of Bruges",
+    "city": "bruges"
+  },
+  {
+    "name": "country-netherlands",
+    "label": "The Netherlands",
+    "kind": "country",
+    "landmark": "Canal houses",
+    "city": "amsterdam"
+  },
+  {
+    "name": "city-amsterdam",
+    "label": "Amsterdam",
+    "kind": "city",
+    "landmark": "Canal houses",
+    "city": "amsterdam"
+  },
+  {
+    "name": "city-rotterdam",
+    "label": "Rotterdam",
+    "kind": "city",
+    "landmark": "Erasmus Bridge",
+    "city": "rotterdam"
+  },
+  {
+    "name": "country-united-kingdom",
+    "label": "United Kingdom",
+    "kind": "country",
+    "landmark": "Elizabeth Tower",
+    "city": "london"
+  },
+  {
+    "name": "city-london",
+    "label": "London",
+    "kind": "city",
+    "landmark": "Elizabeth Tower",
+    "city": "london"
+  },
+  {
+    "name": "city-edinburgh",
+    "label": "Edinburgh",
+    "kind": "city",
+    "landmark": "Edinburgh Castle",
+    "city": "edinburgh"
+  },
+  {
+    "name": "country-france",
+    "label": "France",
+    "kind": "country",
+    "landmark": "Eiffel Tower",
+    "city": "paris"
+  },
+  {
+    "name": "city-paris",
+    "label": "Paris",
+    "kind": "city",
+    "landmark": "Eiffel Tower",
+    "city": "paris"
+  },
+  {
+    "name": "city-lyon",
+    "label": "Lyon",
+    "kind": "city",
+    "landmark": "Fourviere Basilica",
+    "city": "lyon"
+  },
+  {
+    "name": "country-germany",
+    "label": "Germany",
+    "kind": "country",
+    "landmark": "Brandenburg Gate",
+    "city": "berlin"
+  },
+  {
+    "name": "city-berlin",
+    "label": "Berlin",
+    "kind": "city",
+    "landmark": "Brandenburg Gate",
+    "city": "berlin"
+  },
+  {
+    "name": "city-munich",
+    "label": "Munich",
+    "kind": "city",
+    "landmark": "Frauenkirche",
+    "city": "munich"
+  },
+  {
+    "name": "country-italy",
+    "label": "Italy",
+    "kind": "country",
+    "landmark": "Colosseum",
+    "city": "rome"
+  },
+  {
+    "name": "city-rome",
+    "label": "Rome",
+    "kind": "city",
+    "landmark": "Colosseum",
+    "city": "rome"
+  },
+  {
+    "name": "city-milan",
+    "label": "Milan",
+    "kind": "city",
+    "landmark": "Milan Cathedral",
+    "city": "milan"
+  },
+  {
+    "name": "country-spain",
+    "label": "Spain",
+    "kind": "country",
+    "landmark": "Puerta de Alcala",
+    "city": "madrid"
+  },
+  {
+    "name": "city-madrid",
+    "label": "Madrid",
+    "kind": "city",
+    "landmark": "Puerta de Alcala",
+    "city": "madrid"
+  },
+  {
+    "name": "city-barcelona",
+    "label": "Barcelona",
+    "kind": "city",
+    "landmark": "Sagrada Familia",
+    "city": "barcelona"
+  },
+  {
+    "name": "country-portugal",
+    "label": "Portugal",
+    "kind": "country",
+    "landmark": "Belem Tower",
+    "city": "lisbon"
+  },
+  {
+    "name": "city-lisbon",
+    "label": "Lisbon",
+    "kind": "city",
+    "landmark": "Belem Tower",
+    "city": "lisbon"
+  },
+  {
+    "name": "city-porto",
+    "label": "Porto",
+    "kind": "city",
+    "landmark": "Dom Luis I Bridge",
+    "city": "porto"
+  },
+  {
+    "name": "country-india",
+    "label": "India",
+    "kind": "country",
+    "landmark": "India Gate",
+    "city": "new-delhi"
+  },
+  {
+    "name": "city-new-delhi",
+    "label": "New Delhi",
+    "kind": "city",
+    "landmark": "India Gate",
+    "city": "new-delhi"
+  },
+  {
+    "name": "city-mumbai",
+    "label": "Mumbai",
+    "kind": "city",
+    "landmark": "Gateway of India",
+    "city": "mumbai"
+  },
+  {
+    "name": "country-usa",
+    "label": "USA",
+    "kind": "country",
+    "landmark": "Empire State Building",
+    "city": "new-york"
+  },
+  {
+    "name": "city-new-york",
+    "label": "New York",
+    "kind": "city",
+    "landmark": "Empire State Building",
+    "city": "new-york"
+  },
+  {
+    "name": "city-san-francisco",
+    "label": "San Francisco",
+    "kind": "city",
+    "landmark": "Golden Gate Bridge",
+    "city": "san-francisco"
+  },
+  {
+    "name": "country-brazil",
+    "label": "Brazil",
+    "kind": "country",
+    "landmark": "Christ the Redeemer",
+    "city": "rio-de-janeiro"
+  },
+  {
+    "name": "city-rio-de-janeiro",
+    "label": "Rio De Janeiro",
+    "kind": "city",
+    "landmark": "Christ the Redeemer",
+    "city": "rio-de-janeiro"
+  },
+  {
+    "name": "city-sao-paulo",
+    "label": "Sao Paulo",
+    "kind": "city",
+    "landmark": "Sao Paulo Museum of Art",
+    "city": "sao-paulo"
+  },
+  {
+    "name": "country-china",
+    "label": "China",
+    "kind": "country",
+    "landmark": "Temple of Heaven",
+    "city": "beijing"
+  },
+  {
+    "name": "city-beijing",
+    "label": "Beijing",
+    "kind": "city",
+    "landmark": "Temple of Heaven",
+    "city": "beijing"
+  },
+  {
+    "name": "city-shanghai",
+    "label": "Shanghai",
+    "kind": "city",
+    "landmark": "Oriental Pearl Tower",
+    "city": "shanghai"
+  },
+  {
+    "name": "country-japan",
+    "label": "Japan",
+    "kind": "country",
+    "landmark": "Tokyo Tower",
+    "city": "tokyo"
+  },
+  {
+    "name": "city-tokyo",
+    "label": "Tokyo",
+    "kind": "city",
+    "landmark": "Tokyo Tower",
+    "city": "tokyo"
+  },
+  {
+    "name": "city-kyoto",
+    "label": "Kyoto",
+    "kind": "city",
+    "landmark": "Toji Pagoda",
+    "city": "kyoto"
+  },
+  {
+    "name": "country-thailand",
+    "label": "Thailand",
+    "kind": "country",
+    "landmark": "Wat Arun",
+    "city": "bangkok"
+  },
+  {
+    "name": "city-bangkok",
+    "label": "Bangkok",
+    "kind": "city",
+    "landmark": "Wat Arun",
+    "city": "bangkok"
+  },
+  {
+    "name": "city-chiang-mai",
+    "label": "Chiang Mai",
+    "kind": "city",
+    "landmark": "Doi Suthep",
+    "city": "chiang-mai"
+  }
+]

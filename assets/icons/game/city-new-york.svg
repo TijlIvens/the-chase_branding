@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="New York — Aero and Diamond Beacon at Empire State Building">
+  <defs>
+    <linearGradient id="city-new-york-chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8F8FB"/><stop offset="0.55" stop-color="#DCDFE9"/><stop offset="1" stop-color="#8E97B3"/></linearGradient>
+    <linearGradient id="city-new-york-crystal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E8F6FC"/><stop offset="0.35" stop-color="#79DCF4"/><stop offset="0.65" stop-color="#4FA8D9"/><stop offset="1" stop-color="#2D74C2"/></linearGradient>
+    <linearGradient id="city-new-york-beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4ADEF6"/><stop offset="0.5" stop-color="#2590D9"/><stop offset="1" stop-color="#9B6BFF"/></linearGradient>
+    <linearGradient id="city-new-york-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient>
+  </defs>
+
+<path d="M14 4h36l10 10v36L50 60H14L4 50V14z" fill="#0B0E24" stroke="url(#city-new-york-chrome)" stroke-width="1.5"/>
+<path d="M10 17 32 54 54 17" fill="none" stroke="url(#city-new-york-beam)" stroke-width="1.5"/>
+<path d="M13 46V33h6v13m22 0V30h6v16M11 47h42" fill="#10386B" stroke="#10386B" stroke-width="2"/>
+<path d="M23 44V25h4V15h3V8h2V4h1v4h2v7h3v10h4v19M12 44V31h8v13M45 44V27h6v17M29 22v18m6-18v18" fill="none" stroke="#DCDFE9" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="miter"/>
+
+<path d="M11 48h42" stroke="url(#city-new-york-beam)" stroke-width="1.5"/>
+<g transform="translate(5 28) scale(0.4)"><defs><linearGradient id="city-new-york-aero-head" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#54838B"/><stop offset="1" stop-color="#395073"/></linearGradient><linearGradient id="city-new-york-aero-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9CF8E"/><stop offset="0.5" stop-color="#C9A55C"/><stop offset="1" stop-color="#8D7850"/></linearGradient></defs>
+  <path d="M6 60c0-12 10-14 18-16s10-6 8-12" fill="none" stroke="#1F2534" stroke-width="15" stroke-linecap="round"/>
+  <path d="M6 60c0-12 10-14 18-16s10-6 8-12" fill="none" stroke="#395073" stroke-width="11" stroke-linecap="round"/>
+  <path d="M10 60c0-9 8-11 14-12.5" fill="none" stroke="#6E6A92" stroke-width="4" stroke-linecap="round"/>
+  <path d="M14 52c4-2 9-3 12-5M29 42l2-5" fill="none" stroke="#4ADEF6" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M30 16C24 8 17 5 10 8c6 1 11 5 13 13z" fill="url(#city-new-york-aero-gold)"/>
+  <path d="M22 26l6-11 12-3 14 6 2 4-10 2 8 6-10 3-6 5H26l-5-6z" fill="url(#city-new-york-aero-head)"/>
+  <path d="M42 22l16 1-14 4z" fill="url(#city-new-york-aero-gold)"/>
+  <path d="M42 30l12 4-12 2z" fill="#C9A55C"/>
+  <path d="M43 27l11 4-11-1z" fill="#1F2534"/>
+  <path d="M33 19l5-2 2 3-5 2z" fill="#9B6BFF"/>
+  <path d="M36 19h1.5" stroke="#1F2534" stroke-width="1.5"/>
+  <path d="M24 32l5-4 4 6" fill="none" stroke="#4ADEF6" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M22 26l6-11 12-3 14 6 2 4-10 2 8 6-10 3-6 5H26l-5-6z" fill="none" stroke="#1F2534" stroke-width="1.5" stroke-linejoin="round"/></g>
+<g transform="translate(29 29) scale(0.48)"><defs><radialGradient id="city-new-york-beacon-glow"><stop offset="0" stop-color="#4ADEF6" stop-opacity="0.55"/><stop offset="1" stop-color="#4ADEF6" stop-opacity="0"/></radialGradient></defs>
+  <ellipse cx="32" cy="54" rx="22" ry="6" fill="url(#city-new-york-beacon-glow)"/>
+  <ellipse cx="32" cy="54" rx="16" ry="4" fill="none" stroke="#4ADEF6" stroke-width="2.5"/>
+  <g transform="translate(14 4) scale(0.56)"><path d="M18 14h28l10 12-24 28L8 26z" fill="#4FA8D9"/>
+  <path d="M8 26h48L32 54z" fill="#2D74C2"/>
+  <path d="M18 14l6 12h16l6-12z" fill="#79DCF4"/>
+  <path d="M8 26l10-12 6 12zM56 26 46 14l-6 12z" fill="#4FA8D9"/>
+  <path d="M24 26h16L32 54z" fill="#79DCF4"/>
+  <path d="M8 26h16l8 28z" fill="#3B8ACB"/>
+  <path d="M20 16h9l-4 8z" fill="#E8F6FC" opacity="0.9"/>
+  <path d="M18 14h28l10 12-24 28L8 26z" fill="none" stroke="#E8F6FC" stroke-width="1.5" stroke-linejoin="round" opacity="0.8"/></g>
+  <path d="M32 40v8" stroke="#4ADEF6" stroke-width="1.5" stroke-dasharray="2 2"/></g>
+<path d="M47 10v6m-3-3h6" stroke="#E8F6FC" stroke-width="1"/>
+</svg>

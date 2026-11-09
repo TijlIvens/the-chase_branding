@@ -47,15 +47,17 @@ beacons, uncover the truth and save their future.
 
 ### How the game works
 
+Summary only; the full rules (modes, pricing, coupons, launch) are in [`PRODUCT.md`](PRODUCT.md).
+
 | Mechanic | Rule | Brand assets |
 |---|---|---|
 | **Urban exploration** | The player walks to real locations in their city | `map`, `route`, `landmark`, `marker-beacon` |
-| **Location-activated questions** | Arriving at a location unlocks a multiple-choice question about the city, general knowledge or pop culture | `question`, `question-card`, `landmark`, `knowledge`, `pop-culture` |
+| **Location-activated questions** | Arriving within the GPS radius of a location unlocks a multiple-choice question about the city, general knowledge or pop culture | `question`, `question-card`, `landmark`, `knowledge`, `pop-culture` |
 | **Points** | Every correct answer earns points and collects that location's Diamond Beacon | `beacon`, `marker-collected`, `success` colour |
-| **Time penalty** | A wrong answer costs **5 seconds** | `time-penalty` (UI and game), `warning` colour |
-| **Telepathic bond** | Aero sends clues and guidance | `telepathy`, `telepathic-link`, `marker-aero`, `violet-glow` |
+| **Time penalty** | In timed routes and live events a wrong answer adds **5 seconds**, then the player tries again. No hints, no skipping | `time-penalty` (UI and game), `warning` colour |
+| **Telepathic bond** | Aero tells the story in scripted beats (start, each beacon, finish) and relays Mr. Chase. Aero never gives answer hints | `telepathy`, `telepathic-link`, `marker-aero`, `violet-glow` |
 | **The mission** | Beacons recovered by all players repair the Cerebrium and change the future | `cerebrium`, `time-machine`, `timeline`, `portal` |
-| **Prizes** | **Every** participant, win or lose, gets coupons or discounts at local shops, bars, restaurants and businesses | `coupon` (UI and game), `marker-partner`, `gold` family |
+| **Prizes** | **Every** participant, win or lose, gets coupons or discounts at local shops, bars, restaurants and businesses, redeemed by showing the screen | `coupon` (UI and game), `marker-partner`, `gold` family |
 
 Naming in copy: always **Mr. Chase** or **Mr. Arthur Chase** (not "the Agent"), **Aero**
 (not "the Serpent"), **Diamond Beacons** or **beacons** (not crystals or gems), and the

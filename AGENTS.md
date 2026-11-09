@@ -17,12 +17,18 @@ in the future.
   A wrong answer costs **5 seconds**.
 - **Every** player, win or lose, gets coupons or discounts at local businesses.
 
+Three modes: free roam (free, self-guided tours), timed routes (some free, some paid;
+fastest time wins) and paid live events. Solo play, account required, no hints, steps
+counted as a stat. Launch: iOS + Android, Belgian and major international cities, in EN, NL,
+FR, DE, ES and PT.
+
 **Aero is the player's friendly guide, never a villain. Mr. Chase is the inventor, not an
-antagonist.** Full story, cast, mechanics and naming rules: `BRAND_BOOK.md` §1.
+antagonist.** Game rules: `PRODUCT.md`. Story, cast and naming: `BRAND_BOOK.md` §1.
 
 | What | Where |
 |---|---|
-| Brand book (colours, logo, type, icons, voice) | `BRAND_BOOK.md` |
+| Product spec (modes, rules, pricing, launch) | `PRODUCT.md` |
+| Brand book (story, colours, logo, type, icons, voice) | `BRAND_BOOK.md` |
 | Colour tokens (source of truth) | `tokens/colors.json`, mirrored in `tokens/colors.css` |
 | Original key art (read-only reference) | `base-images/` |
 | Logo, app icon, favicon | `assets/logo/`, `assets/app/` |

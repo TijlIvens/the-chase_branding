@@ -24,13 +24,58 @@ earns coupons for local businesses.
 **Paid games come in two kinds:**
 - **Themed routes** for an audience (e.g. kids, history, foodies, nightlife). Anyone can buy one and play it solo.
 - **Private group games** bought by **one organiser** for a set number of players (school class,
-  company outing, bachelor party). The group gets a private route and a join code; players join free.
+  company outing, bachelor party). The organiser picks one of your routes **or builds their own**
+  (see *Creating games*). The group gets a join code; players join free.
   Everyone plays **on their own phone**, solo, on a private group leaderboard. **These never count
   towards the main leaderboard.**
 
 **Exclusive prize games** are a fourth, invite-only kind: you invite top and Hall of Fame players
 (via the in-app inbox) to play for big prizes. They have their own leaderboard **and** count towards
 the main leaderboard like a paid game.
+
+## Creating games
+
+Three kinds of creator:
+
+| Creator | Can make | Visible to | Checks | Main-board points |
+|---|---|---|---|---|
+| **The Chase (you)** | Free routes, paid themed routes, live events, exclusive prize games | Everyone (or invited, for prize games) | You write and check every question | Yes |
+| **Verified company** (school, employer, event agency, tourist office) | Private group games | Only people they invite | Business verification once, then auto-checks per game | No |
+| **Player** (18+) | Private group games | Only people they invite | Auto-checks per game | No |
+
+**Creator tool** (in the app): pick a city, drop beacon locations on the map, write a multiple-choice
+question per location (1 correct + 3 wrong answers, optional "did you know"), set a par time, number of
+players and date window, pay, and share the code. Aero's story lines are fixed and added automatically.
+
+**Rules for player and company games**
+- **Private only.** Never listed publicly, never searchable; joinable only by invite.
+- **Creators must be 18+** (age confirmed at sign-up). Minors can only join games from a **verified
+  company** (e.g. their school) or with a parent's approval.
+- **Automatic checks before a game goes live:** blocked words and offensive content in questions and
+  names; locations must be public places (no homes, private property, schools after hours, motorways,
+  railway tracks, water edges or construction sites); locations must be reachable on foot; a maximum
+  walking distance between beacons. A game that fails is not published, and the creator sees why.
+- **Report button** on every game and invite. You review reports and can take a game down or ban a
+  creator. Three upheld reports = creator can no longer make games.
+
+## Trusted invites
+
+A player should only play with people they know or with a well-known company.
+
+- **Verified companies** go through business verification (company registration number, website,
+  work email) and get a **verified badge** on their profile and invites.
+- **Players can only invite people they know:** friends in the app, phone contacts (only if the player
+  allows contact access) or a join code shared in person. No inviting strangers by username, and no
+  public "looking for players".
+- **Every invite shows who sent it:** name, photo, verified badge (if any), account age, games hosted
+  and rating, plus where and when the game takes place. Buttons: **Accept**, **Decline**, **Report**,
+  **Block**.
+- **Block** stops that creator from inviting or messaging the player again. Blocked and reported
+  creators are never told who blocked or reported them.
+- Invites from someone who is **not** a friend, contact or verified company show a clear warning:
+  "You don't know this person. Only join games from people you know or verified companies."
+- Players never see each other's exact location, phone number or email, only name, photo and
+  leaderboard times.
 
 ## Core loop (one location)
 
@@ -133,20 +178,34 @@ only (GDPR).
 
 ## Not in v1
 
-Team play, hints, AI chat with Aero, AR, user-made routes, steps affecting score, offline play,
-email marketing.
+Team play, hints, AI chat with Aero, AR, public player-made games, steps affecting score, offline
+play, email marketing, direct chat between players.
 
 ## Safety
 
-- A "watch where you walk" reminder at the start of every game; questions never unlock while the
-  player is moving fast (e.g. on a bike or in a car).
+**Warnings the app shows**
+
+| When | Warning |
+|---|---|
+| First launch and the start of every game | "Stay aware of your surroundings. Watch for traffic and never use your phone while crossing the street." |
+| Joining any private game | "Only play with people you know or verified companies. Meet in public places. Tell someone where you're going." |
+| Invite from someone not in your friends or contacts | "You don't know this person. Only join games from people you know or verified companies." |
+| Moving fast (bike, car) | Questions stay locked: "Stop somewhere safe to answer." |
+| Evening game or nightlife route | "It's getting dark. Stay in well-lit areas and keep your group together." 18+ routes need a confirmed age |
+| Phone battery below 20% | "Battery low. Make sure you can still get home and contact someone." |
+| Creating a game | "Choose public, safe places. Your game is checked before it goes live, and players can report it." |
+
+**Other safety rules**
+- Questions never unlock while the player is moving fast (e.g. on a bike or in a car).
 - Nightlife and pub routes are marked **18+** and require a confirmed age.
 - Routes avoid private property and dangerous crossings; live events have an end time before dark
   unless they're explicitly night events.
 
 ## Open questions
 
-1. Ticket prices per paid route, live event, and private group game (per player).
+1. Ticket prices per paid route, live event, and private group game (per player), and whether
+   creating your own private game costs more than booking one of yours.
 2. Player cap per live event, and how far ahead tickets can be bought.
 3. Prizes for exclusive prize games: who funds them (you or partners)?
 4. Free roam badges: which milestones (e.g. 25 / 50 / 100% of a city's beacons)?
+5. Business verification: done by you by hand, or by an external service?
